@@ -55,16 +55,7 @@ module.exports = {
       }
     },
     // css
-    {
-      resolve: `gatsby-plugin-postcss-sass`,
-      options: {
-        postCssPlugins: [
-          postcssPresetEnv({
-            browsers: '> 0.5%, last 2 versions, ie 11'
-          })
-        ]
-      }
-    },
+    'gatsby-plugin-sass',
     'gatsby-plugin-sitemap',
 
     {

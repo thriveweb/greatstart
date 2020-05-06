@@ -69,7 +69,7 @@ class Form extends Component {
         action={action}
         onSubmit={this.handleSubmit}
         data-netlify=""
-        data-netlify-honeypot="email"
+        netlify-honeypot="_gotcha"
       >
         {this.state.alert && (
           <div className="EnquiryForm--Alert">{this.state.alert}</div>

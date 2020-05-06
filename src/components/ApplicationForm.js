@@ -85,7 +85,7 @@ class Application extends React.Component {
         method='post'
         onSubmit={this.handleSubmit}
         data-netlify=""
-        data-netlify-honeypot="email"
+        netlify-honeypot="_gotcha"
         encType='multipart/form-data'
         ref={this.formRef}
       >

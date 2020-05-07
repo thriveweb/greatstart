@@ -142,7 +142,21 @@ gallery:
   - image: /images/uploads/img_0772.jpg
   - image: /images/uploads/img_0775.jpg
   - image: /images/uploads/img_0765.jpg
-  - {}
+  - image: /images/uploads/4-s-18_kinder-yard-long-shot.png
+  - image: /images/uploads/4-s-21_playground-rectangle.jpg
+  - image: /images/uploads/playground-and-rope_hexagon.jpg
+  - image: /images/uploads/4-s-20_bench-kimochis.png
+  - image: /images/uploads/4-s-5_dry-river-bed-sandpit.jpg
+  - image: /images/uploads/4-s-24_mud-kitchen_focus.png
+  - image: /images/uploads/4-s-26-dry-river-bed.png
+  - image: /images/uploads/img_4354.jpg
+  - image: /images/uploads/img_4338.jpg
+  - image: /images/uploads/img_4350.jpg
+  - image: /images/uploads/img_4347.jpg
+  - image: /images/uploads/img_4332.jpg
+  - image: /images/uploads/img_6614.jpg
+  - image: /images/uploads/img_4352.jpg
+  - image: /images/uploads/img_4333.jpg
 additionalInfoBoxes:
   - buttonLinkTo: /learning/educational-programs-and-curriculum/
     buttonTitle: Read More

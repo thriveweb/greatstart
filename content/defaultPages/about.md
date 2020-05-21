@@ -29,3 +29,11 @@ Our Educators have access to the best resources, expertise and professional deve
 We look forward to welcoming you and your family.
 
 **To find out more about our early learning offering [contact us](/contact/) today**
+
+
+
+
+
+## Acknowledgement of Country
+
+We are proud to acknowledge the Aboriginal and Torres Strait Islander people as the traditional custodians of this land, in which we live, love and play. We pay my respects to the Elders past, present and emerging, for they hold the memories, the traditions, the culture and hopes of Aboriginal and Torres Strait Islander peoples across the nation.

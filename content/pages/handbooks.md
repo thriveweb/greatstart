@@ -39,10 +39,10 @@ downloadableForms:
     title: Medication Authority Form & Record (PDF)
   - file: /images/uploads/notification-of-cessation-of-care_08.18.2.pdf
     title: Notification of Cessation of Care (PDF)
-  - file: /images/uploads/opr016~2.doc
-    title: Parent Concern and Complaint
-  - file: /images/uploads/opr016~1.doc
-    title: Parent Participation Feedback and Comments
+  - file: /images/uploads/opr016~1.pdf
+    title: Parent Concern and Complaint (PDF)
+  - file: /images/uploads/opr016~2.pdf
+    title: Parent Participation Feedback and Comments (PDF)
   - file: /images/uploads/digital_greatstart_handbook_eastmalvern.pdf
     title: Greatstart handbook - Eastmalvern (PDF)
   - file: /images/uploads/digital_greatstart_handbook_mildura.pdf

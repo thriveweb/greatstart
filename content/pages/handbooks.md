@@ -1,8 +1,11 @@
 ---
 template: Handbooks
 slug: parents/centre-forms-and-handbooks
-title: Centre Forms and Handbooks
+title: 'Key Policies, Centre Forms and Handbooks'
 downloadableForms:
+  - file: >-
+      /images/uploads/1-enrolment-policy-and-priority-of-access-policy_06-2020.pdf
+    title: Enrolment Policy and Priority of Access Policy (PDF)
   - file: >-
       /images/uploads/allergy_ascia-action-plan-allergic-reactions_no-autoinjector_0818.pdf
     title: Action Plan Allergic Reactions (PDF)
@@ -49,6 +52,8 @@ downloadableForms:
     title: Greatstart handbook - Mildura (PDF)
   - file: /images/uploads/greatstart_handbook_milduracentral.pdf
     title: Greatstart handbook - Milduracentral (PDF)
+  - file: /images/uploads/7-–-complaints-grievance-policy_06-2020.pdf
+    title: Complaint and Grievance Policy (PDF)
 meta:
   description: >-
     Here are some important downloadable forms;  Action Plan Allergic Reactions

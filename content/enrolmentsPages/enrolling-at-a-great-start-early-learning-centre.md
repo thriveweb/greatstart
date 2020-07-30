@@ -184,6 +184,12 @@ accordion:
       the counter at a Medicare Service Centre or by calling AIR on 1800 653
       809.
     title: Immunisation Compliance
+  - content: >-
+      Please access our [Enrolment Policy and Prority of Access
+      Policy](/images/uploads/1-enrolment-policy-and-priority-of-access-policy_06-2020.pdf)
+      here.
+    title: Enrolment and Priority of Access Policy
+downloadFile: ''
 meta:
   description: >-
     We would love to find your child a place at our centre. A centre tour is a

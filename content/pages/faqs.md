@@ -182,7 +182,9 @@ accordionSection:
       - content: >-
           Please refer to the Enrolment [Terms and
           Conditions](/images/uploads/terms-conditions.pdf) & Complying Written
-          Agreement document.
+          Agreement document. Please refer to our [Enrolment Policy and Priority
+          of Access
+          Policy](/images/uploads/1-enrolment-policy-and-priority-of-access-policy_06-2020.pdf).
         title: What are the Enrolment Terms and Conditions?
     title: Parent Info
   - accordion:

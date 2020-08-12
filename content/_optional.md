@@ -10,6 +10,7 @@ checklistDownload:
 downloadableForms:
   - title: Test
     file: /images/logo.svg
+downloadFile: /images/logo.svg
 meta:
   canonicalLink: ''
   description: ''

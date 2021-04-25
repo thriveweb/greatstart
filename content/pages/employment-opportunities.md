@@ -36,4 +36,32 @@ Your application should include:
 * Current Working With Children Check
 * Three referees with contact details
 
+
+
+# Our Commitment to Child Safe Standard: Recruitment, Selection and Training Procedures 
+
+The Approved Provider or Nominated Supervisor will  implement recruitment, professional development and training procedures for employees and where relevant volunteers to ensure no-one at the service poses a risk to children and everyone  understands how to manage disclosures or suspicions of harm (Recruitment procedures at Appendix and training procedures in Educator and Management Policy). Requirements include:
+
+•	 job advertisements which include qualifications and skills required, and culture of child safety and protection
+
+•	job descriptions which outline level of professional skills and responsibilities 
+
+•	The organisation seeks to have a culturally diverse workplace; embracing different culture and backgrounds. This includes promoting applicants from Aboriginal and /or people from culturally and/or linguistically diverse backgrounds.
+
+•	processes (including job advertisements) which ensure employees and volunteers have clear Working With Children Checks or they are exempt (see http://www.workingwithchildren.vic.gov.au/)
+
+•	interview questions and referee checks which reference person’s approach to child safety and protection
+
+•	documented induction/ orientation checklists which reference child safety and protection, supervision, compliance with National Law and Regulations, NQS, Code of Conduct, policies and procedures
+
+•	annual training and development to ensure individuals are clear about their roles and responsibilities to protect children from harm, are aware of their reporting obligations, can confidently recognise the indicators of harm (see Appendix) and understand documenting and reporting procedures. 
+
+•	annual performance appraisals for employees 
+
+•	regular inclusion of child protection and risk management strategy at least every 6 months in staff meetings and annual review of written training plans which must include Child Protection matters (eg disclosures and suspicions of harm)
+
+•	providing access to relevant legislation and other resources to help employees and volunteers meet their obligations 
+
+
+
 ### Thank you for your interest in working with Great Start Early Learning Centres team!

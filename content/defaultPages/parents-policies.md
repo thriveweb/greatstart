@@ -144,6 +144,8 @@ accordion:
 
       * 88 - Child Safe Environment Policy
 
+      * 12 - Child Safety and Protection Policy
+
       * 37 - Biting Policy
 
       * 38 - Clothing Policy

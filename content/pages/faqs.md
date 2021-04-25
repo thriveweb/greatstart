@@ -47,6 +47,10 @@ accordionSection:
           Children’s Services or higher. All educators have successfully gained
           a Working with Children’s Check and all hold formal certification in
           First Aid and Asthma & Anaphylaxis.
+
+
+          Please see further information on our commitment to Child Safe
+          Standard in our Child Safety and Protection Policy.
         title: >-
           What are the staff qualifications and are they police checked for
           working with children?

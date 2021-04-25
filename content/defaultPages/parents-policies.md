@@ -31,7 +31,7 @@ accordion:
       dietary need, a Medical Conditions Form needs to be completed and
       submitted with the enrolment form.
 
-      * Child Protection Standards and Procedures: We acknowledge our
+      * Child Safe and Protection Standards and Procedures: We acknowledge our
       responsibility to all children attending the centre and their right to
       care and protection. We take a preventative, proactive and participatory
       stance on child protection issues. To support this right the centre will
@@ -41,6 +41,15 @@ accordion:
       psychological and neglect. Educators are responsible for preventing child
       abuse, recognising indicators and responding effectively if issues arise,
       including Mandatory Reporting of child abuse.
+
+      * Our Child Safe Statement of Commitment: The organisation has a strong
+      commitment to child safety and protection, through implementing and
+      adherence to the Child Safe Standards. This commitment extends to all
+      children in our service and community with an aim for children to feel
+      safe, secure and supported. We acknowledge the importance of our
+      organisation and community to be committed to culturally safety of
+      aboriginal children, the cultural safety for culturally and/or
+      linguistically diverse children and safety of children with a disability. 
 
       * Food and Nutrition: Nutrition plays a pivotal role in the quality of
       care. All meals are prepared in accordance with Food Safety and Nutrition

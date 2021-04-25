@@ -40,7 +40,7 @@ Your application should include:
 
 # Our Commitment to Child Safe Standard: Recruitment, Selection and Training Procedures 
 
-The Approved Provider or Nominated Supervisor will  implement recruitment, professional development and training procedures for employees and where relevant volunteers to ensure no-one at the service poses a risk to children and everyone  understands how to manage disclosures or suspicions of harm (Recruitment procedures at Appendix and training procedures in Educator and Management Policy). Requirements include:
+We will  implement recruitment, professional development and training procedures for employees and where relevant volunteers to ensure no-one at the service poses a risk to children and everyone  understands how to manage disclosures or suspicions of harm (Recruitment procedures at Appendix and training procedures in Educator and Management Policy). Requirements include:
 
 •	 job advertisements which include qualifications and skills required, and culture of child safety and protection
 

@@ -49,7 +49,10 @@ accordion:
       safe, secure and supported. We acknowledge the importance of our
       organisation and community to be committed to culturally safety of
       aboriginal children, the cultural safety for culturally and/or
-      linguistically diverse children and safety of children with a disability. 
+      linguistically diverse children and safety of children with a disability.
+      Please see the Child Safety and Protection Policy for more detail on how
+      we comply with the Child Safety Standard. Also see the Frequently Asked
+      Questions section of our Website.
 
       * Food and Nutrition: Nutrition plays a pivotal role in the quality of
       care. All meals are prepared in accordance with Food Safety and Nutrition

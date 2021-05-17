@@ -155,6 +155,8 @@ gallery:
   - image: /images/uploads/outdoor-10_emelc_used.jpg
   - image: /images/uploads/outdoor-7_emelc_used.jpg
   - image: /images/uploads/outdoor-5_emelc.jpg
+  - image: /images/uploads/emelc_photo-front.jpg
+  - {}
 additionalInfoBoxes:
   - buttonLinkTo: /learning/educational-programs-and-curriculum/
     buttonTitle: Read More

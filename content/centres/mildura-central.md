@@ -177,12 +177,15 @@ directorStatement:
     Hello, my name is Bree Harding and I am the Assistant Director at Mildura
     Central Early Learning Centre.
 gallery:
-  - image: /images/uploads/garden.jpg
   - image: /images/uploads/istock-516621014_supe_crop.jpg
   - image: /images/uploads/bridge-to-playground.jpg
   - image: /images/uploads/playspace_numeracy-copy.jpg
   - image: /images/uploads/istock-147323697.jpg
   - image: /images/uploads/playspace-.jpg
+  - image: /images/uploads/bree-harding-pic-6.jpg
+  - image: /images/uploads/bree-harding-pic-9.jpg
+  - image: /images/uploads/bree-harding-pic-9.jpg
+  - image: /images/uploads/bree-harding-pic.jpg
 additionalInfoBoxes:
   - buttonLinkTo: /learning/educational-programs-and-curriculum/
     buttonTitle: Read More

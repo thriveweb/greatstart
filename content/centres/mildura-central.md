@@ -184,8 +184,8 @@ gallery:
   - image: /images/uploads/playspace-.jpg
   - image: /images/uploads/bree-harding-pic-6.jpg
   - image: /images/uploads/bree-harding-pic-9.jpg
-  - image: /images/uploads/bree-harding-pic-9.jpg
   - image: /images/uploads/bree-harding-pic.jpg
+  - image: /images/uploads/mcelc-exceeding-certificate_2021.png
 additionalInfoBoxes:
   - buttonLinkTo: /learning/educational-programs-and-curriculum/
     buttonTitle: Read More

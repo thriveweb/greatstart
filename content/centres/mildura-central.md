@@ -163,7 +163,7 @@ testimonials:
       Centre!  
 directorStatement:
   content: >-
-    I have been working in Early childhood for 6 years here at Mildura Central
+    I have been working in Early childhood for 9 years here at Mildura Central
     Early Learning Centre and hold a Diploma of Early Childhood. My Strong
     passion and excitement for the Early Years is supported through the
     Victorian Early Years Learning Framework and many Professional Developments.

@@ -688,4 +688,4 @@ The seven National Quality Standard (NQS) areas are:  NQS1. Educational prog
 
 Our policies and procedures cover these key seven areas. You can find more information about the NQF and NQS at [acecqa.gov.au](https://acecqa.gov.au).
 
-All centres are required to have policies and related documents in relation to certain matters under Regulation 168 of the Education and Care Services National Regulations. If you would like a copy of any centre policy please speak with your Centre Director or view at the centre.
+All centres are required to have policies and related documents in relation to certain matters under Regulation 168 of the Education and Care Services National Regulations. If you would like a copy of any centre policy please speak with your Centre Director or view at the centre.  Our Centre Policy Handbook can also be viewed online.

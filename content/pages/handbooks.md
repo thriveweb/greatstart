@@ -23,7 +23,7 @@ downloadableForms:
   - file: >-
       /images/uploads/ascia_pcc_anaphylaxis_parent_fact_sheet_2018_web-printed-05-2022.pdf
     title: Anaphylaxis - Fact Sheet (PDF)
-  - file: /images/uploads/anaphylaxis_risk-minimisation-strategies-table_030315.pdf
+  - file: /images/uploads/anaphylaxis_risk_minimisation_cec_october_2021.pdf
     title: Anaphylaxis - Risk Minimisation Strategies Table (PDF)
   - file: >-
       /images/uploads/asthma-care-plan_aacped2020a4-care-plan-for-schools_v05-2022.pdf

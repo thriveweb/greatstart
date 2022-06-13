@@ -3,25 +3,25 @@ template: Handbooks
 slug: parents/centre-forms-and-handbooks
 title: 'Key Policies, Centre Forms and Handbooks'
 downloadableForms:
-  - file: >-
-      /images/uploads/1-enrolment-policy-and-priority-of-access-policy_06-2020.pdf
-    title: Enrolment Policy and Priority of Access Policy (PDF)
-  - file: >-
-      /images/uploads/allergy_ascia-action-plan-allergic-reactions_no-autoinjector_0818.pdf
+  - file: ''
+    title: >-
+      Enrolment Policy and Priority of Access Policy - please see Centre Policy
+      Handbook
+  - file: /images/uploads/ascia_action_plan_allergic_reactions_green_2021_web.pdf
     title: Action Plan Allergic Reactions (PDF)
   - file: /images/uploads/allergy_management-risk-communication-plan_08.18.pdf
-    title: Allergy Management Risk Communication Plan (PDF)
+    title: Allergy Management Risk Communication Plan (Service PDF)
   - file: /images/uploads/anaphylaxis-_management-risk-communication-plan_08.18.pdf
-    title: Anaphylaxis - Management Risk Communication Plan (PDF)
-  - file: /images/uploads/anaphylaxis_-ascia-action-plan_epipen_08.18.pdf
+    title: Anaphylaxis - Management Risk Communication Plan (Service PDF)
+  - file: /images/uploads/ascia_action_plan_anaphylaxis_red_epipen_2021_web.pdf
     title: Anaphylaxis - Action Plan EpiPen (PDF)
-  - file: >-
-      /images/uploads/anaphylaxis_ascia-action-plan_epinephrine-autoinjector_08.18.pdf
+  - file: /images/uploads/ascia_action_plan_anaphylaxis_red_anapen_2021_web.pdf
     title: Anaphylaxis - Action Plan Epinephrine Autoinjector (PDF)
   - file: >-
       /images/uploads/anaphylaxis_ascia-hp-anaphylaxis-checklist_for-doctor_0818.pdf
     title: Anaphylaxis - Checklist (PDF)
-  - file: /images/uploads/anaphylaxis_ascia-pcc_parent-fact-sheet_2017_08.18.pdf
+  - file: >-
+      /images/uploads/ascia_pcc_anaphylaxis_parent_fact_sheet_2018_web-printed-05-2022.pdf
     title: Anaphylaxis - Fact Sheet (PDF)
   - file: /images/uploads/anaphylaxis_risk-minimisation-strategies-table_030315.pdf
     title: Anaphylaxis - Risk Minimisation Strategies Table (PDF)

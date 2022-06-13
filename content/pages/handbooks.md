@@ -25,11 +25,12 @@ downloadableForms:
     title: Anaphylaxis - Fact Sheet (PDF)
   - file: /images/uploads/anaphylaxis_risk-minimisation-strategies-table_030315.pdf
     title: Anaphylaxis - Risk Minimisation Strategies Table (PDF)
-  - file: /images/uploads/asthma_management-care-plan_prepared-by-doctor_8.18.pdf
+  - file: >-
+      /images/uploads/asthma-care-plan_aacped2020a4-care-plan-for-schools_v05-2022.pdf
     title: Asthma - Management & Care Plan (PDF)
   - file: >-
       /images/uploads/asthma_risk-minimisation-and-comminication-plan_gselc_8.18.pdf
-    title: Asthma - Risk Minimisation and Comminication Plan (PDF)
+    title: Asthma - Risk Minimisation and Comminication Plan (Service PDF)
   - file: >-
       /images/uploads/authority-to-administer-nappy-cream-sun-cream-mosquito-repellent-medication-form-_11.16.3.pdf
     title: Authority to Administer Nappy Cream Sun Cream Mosquito Repellent (PDF)
@@ -37,9 +38,9 @@ downloadableForms:
     title: Holiday Booking Form (PDF)
   - file: >-
       /images/uploads/medical-conditions_management-risk-communication-plan_08.18.pdf
-    title: Medical Conditions - Management Risk Communication Plan (PDF)
+    title: Medical Conditions - Management Risk Communication Plan (Service PDF)
   - file: /images/uploads/medication-authority-form-record_7.16_pdf.pdf
-    title: Medication Authority Form & Record (PDF)
+    title: Medication Authority Form & Record (Service PDF)
   - file: /images/uploads/notification-of-cessation-of-care_08.18.2.pdf
     title: Notification of Cessation of Care (PDF)
   - file: /images/uploads/opr016~1.pdf
@@ -61,4 +62,6 @@ meta:
     Management Risk. 
   title: Centre Forms and Handbooks | Great Start ELC
 ---
-#### Here are some important downloads
+#### Here are some important downloads.
+
+#### We recommend going directly to the organisation website to ensure the latest version of external forms are obtained. For example: Asthma Austalia (https://asthma.org.au ) and  ASCIA for Allergy and Anaphylaxis (https://allergy.org.au )

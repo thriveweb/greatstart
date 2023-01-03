@@ -15,8 +15,8 @@ downloadableForms:
     title: Anaphylaxis - Management Risk Communication Plan (Service PDF)
   - file: /images/uploads/ascia_action_plan_anaphylaxis_red_epipen_2021_web.pdf
     title: Anaphylaxis - Action Plan EpiPen (PDF)
-  - file: /images/uploads/ascia_action_plan_anaphylaxis_red_anapen_2021_web.pdf
-    title: Anaphylaxis - Action Plan Epinephrine Autoinjector (PDF)
+  - file: /images/uploads/ascia_action_plan_anaphylaxis_red_anapen_2022.pdf
+    title: Anaphylaxis - Action Plan Epinephrine Autoinjector - AnaPen (PDF)
   - file: >-
       /images/uploads/anaphylaxis_ascia-hp-anaphylaxis-checklist_for-doctor_0818.pdf
     title: Anaphylaxis - Checklist (PDF)

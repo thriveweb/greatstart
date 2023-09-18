@@ -631,7 +631,7 @@ accordion:
       Children’s Education and Care Quality Authority (ACECQA) and Department of
       Education and Training (DET) Please refer to the section below for their
       roles as a key stakeholder in a childcare service.
-    title: "NQS 7.\_Leadership and service management"
+    title: "NQS 7.\_Governance and Leadership"
   - content: >-
       #### Australian Children’s Education & Care Quality Authority (ACECQA)
 

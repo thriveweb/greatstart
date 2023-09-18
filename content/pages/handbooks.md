@@ -55,6 +55,8 @@ downloadableForms:
     title: Greatstart handbook - Milduracentral (PDF)
   - file: /images/uploads/7-–-complaints-grievance-policy_9-23_pdf.pdf
     title: Complaint and Grievance Policy (PDF)
+  - file: /images/uploads/31-illness-policy_3-0-7-2023_pdf.pdf
+    title: Illness Policy
 meta:
   description: >-
     Here are some important downloadable forms;  Action Plan Allergic Reactions

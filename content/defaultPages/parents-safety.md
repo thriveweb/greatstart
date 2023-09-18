@@ -8,11 +8,12 @@ accordion:
 infoSection:
   description: >-
     1. Culturally Safe Environments:  Establish a culturally safe environment in
-    which the diverse and unique identities and experiences of Aboriginal
-    children and young people are respected and valued.
+    which the diverse and unique identities and experiences of Aboriginal and
+    Torres Strait Islander children and young people are respected and valued.
 
     2. Child Safety and Wellbeing Guidance:  Ensure that child safety and
-    wellbeing are embedded in organisation leadership, governance and culture.
+    wellbeing are embedded in our organisations leadership, governance and
+    culture.
 
     3. Child and Student Empowerment:  Children and young people are empowered
     about their rights, participate in decisions affecting them and are taken

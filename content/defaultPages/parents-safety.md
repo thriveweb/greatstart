@@ -11,7 +11,7 @@ meta:
   description: >-
     Our priority is providing your child with a safe, clean and nurturing
     environment.
-  title: Safety and Security | Great Start ELC
+  title: 'Safety, Security & Child Safe Standards | Great Start ELC'
 ---
 ![Kids playing](/images/uploads/istock-516621014_supe_crop.jpg)
 

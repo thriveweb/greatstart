@@ -7,6 +7,8 @@ downloadableForms:
     title: >-
       Enrolment Policy and Priority of Access Policy - please see Centre Policy
       Handbook
+  - file: /images/uploads/31-illness-policy_3-0-7-2023_pdf.pdf
+    title: Illness Policy
   - file: /images/uploads/ascia_action_plan_allergic_reactions_green_2021_web.pdf
     title: Action Plan Allergic Reactions (PDF)
   - file: /images/uploads/allergy_management-risk-communication-plan_08.18.pdf
@@ -55,8 +57,6 @@ downloadableForms:
     title: Greatstart handbook - Milduracentral (PDF)
   - file: /images/uploads/7-–-complaints-grievance-policy_9-23_pdf.pdf
     title: Complaint and Grievance Policy (PDF)
-  - file: /images/uploads/31-illness-policy_3-0-7-2023_pdf.pdf
-    title: Illness Policy
 meta:
   description: >-
     Here are some important downloadable forms;  Action Plan Allergic Reactions

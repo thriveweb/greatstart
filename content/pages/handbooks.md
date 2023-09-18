@@ -3,6 +3,8 @@ template: Handbooks
 slug: parents/centre-forms-and-handbooks
 title: 'Key Policies, Centre Forms and Handbooks'
 downloadableForms:
+  - file: /images/uploads/p001-centre-policy-handbook_august-2023.3_pdf.pdf
+    title: Service Policy Handbook
   - file: ''
     title: >-
       Enrolment Policy and Priority of Access Policy - please see Centre Policy

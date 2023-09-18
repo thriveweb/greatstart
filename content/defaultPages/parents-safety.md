@@ -39,6 +39,8 @@ It is important for safety and legal reasons to sign your child in and out each 
 
 If you have forgotten your PIN or needing to change your mobile number please see the Centre Director. Please keep your PIN confidential. If you have forgotten your PIN please see the Centre Director.
 
+
+
 # Our Commitment to Child Safe Standards and Creating a Child Safe Environment
 
 The Approved Provider, Nominated Supervisor, employees and volunteers will implement a Child Protection Risk Management Strategy to ensure the health, wellbeing and safety of all children at the service, protect children from harm and protect the integrity of employees and volunteers.

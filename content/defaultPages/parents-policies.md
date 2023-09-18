@@ -686,7 +686,7 @@ The National Quality Framework (NQF) encourages services to provide a high quali
 
 ##### **Centres are assessed and rated against seven quality areas, of the NQS. The standards cover children’s development and education as well as relationships with families, educator qualifications, and the service environment.**
 
-The seven National Quality Standard (NQS) areas are:  NQS1. Educational program and practice. NQS 2. Children’s health and safety. NQS 3. The physical environment. NQS 4. Staffing arrangements. NQS 5. Relationships with children. NQS 6. Collaborative partnerships with families and communities. NQS 7. Leadership and service management.
+The seven National Quality Standard (NQS) areas are:  NQS1. Educational program and practice. NQS 2. Children’s health and safety. NQS 3. The physical environment. NQS 4. Staffing arrangements. NQS 5. Relationships with children. NQS 6. Collaborative partnerships with families and communities. NQS 7. Governance and leadership.
 
 Our policies and procedures cover these key seven areas. You can find more information about the NQF and NQS at [acecqa.gov.au](https://acecqa.gov.au).
 

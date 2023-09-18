@@ -43,7 +43,7 @@ infoSection:
     Standards is regularly reviewed and improved.
 
     11. Implementation of Child Safety Practices:  ​Policies and procedures that
-    document how schools are safe for children, young people and students.
+    document how our service is safe for children and young people.
 meta:
   description: >-
     Our priority is providing your child with a safe, clean and nurturing

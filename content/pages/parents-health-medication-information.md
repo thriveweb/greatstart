@@ -70,6 +70,8 @@ meta:
 
 If a child becomes unwell whilst at the centre the parents or care givers will be notified and asked to take the child home. Unwell children must be collected from the centre within an hour of being contacted therefore families must ensure emergency contacts are documented on the enrolment form.
 
+Please refer to our Illness Policy for guidance of management of illnesses and infectious diseases. 
+
 We may need to call an ambulance or doctor if urgent medical attention is required. Every effort will be made to contact the parent or their nominated emergency contact as soon as possible.
 
 All medical and ambulance costs are the parent’s responsibility. All illness at the centre is recorded on an Incident, Injury, Trauma, and Illness Record form.

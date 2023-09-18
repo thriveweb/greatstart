@@ -31,7 +31,7 @@ Regulations require that if we cannot contact the parent/guardian at closing tim
 
 We do not allow any unauthorised visitors entry to the centre. Your child’s safety is our number one priority. Unknown people will be asked to show photo identification upon arrival at the centre and their name is required to be listed as an Authorised Nominee contact on the child’s enrolment form.
 
-## Attendance Records: Sign In/Out Using the Kiosk
+#### Attendance Records: Sign in / Out Using the Kiosk
 
 We utilise QK Kiosk which allows parents and authorised family contacts to electronically sign children in and out by entering a digital pin into the touchscreens located at reception – this is an efficient and sustainable practice. 
 
@@ -39,7 +39,7 @@ It is important for safety and legal reasons to sign your child in and out each 
 
 If you have forgotten your PIN or needing to change your mobile number please see the Centre Director. Please keep your PIN confidential. If you have forgotten your PIN please see the Centre Director.
 
-
+Our Commitment to Child Safe Standards
 
 The Approved Provider, Nominated Supervisor, employees and volunteers will implement a Child Protection Risk Management Strategy to ensure the health, wellbeing and safety of all children at the service, protect children from harm and protect the integrity of employees and volunteers.
 

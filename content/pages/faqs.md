@@ -50,7 +50,8 @@ accordionSection:
 
 
           Please see further information on our commitment to Child Safe
-          Standard in our Child Safety and Protection Policy.
+          Standards and our Child Safe Standards Policy and also the Child
+          Protection and Wellbeing Policy.
         title: >-
           What are the staff qualifications and are they police checked for
           working with children?

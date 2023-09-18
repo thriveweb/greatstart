@@ -26,7 +26,7 @@ Centres are assessed and rated against seven quality areas of the NQS. The stand
 * NQS 4 - Staffing arrangements.
 * NQS 5 - Relationships with children.
 * NQS 6 - Collaborative partnerships with families and communities.
-* NQS 7 - Leadership and service management.
+* NQS 7 - Governance and Leadership.
 
 We are constantly seeking ways to improve our programs to ensure we deliver a quality of education that exceeds the standards and sets a benchmark for the industry.
 

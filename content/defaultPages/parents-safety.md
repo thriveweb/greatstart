@@ -6,45 +6,7 @@ accordion:
   - content: ''
     title: ''
 infoSection:
-  description: >-
-    1. Culturally Safe Environments:  Establish a culturally safe environment in
-    which the diverse and unique identities and experiences of Aboriginal and
-    Torres Strait Islander children and young people are respected and valued.
-
-    2. Child Safety and Wellbeing Guidance:  Ensure that child safety and
-    wellbeing are embedded in our organisations leadership, governance and
-    culture.
-
-    3. Child and Student Empowerment:  Children and young people are empowered
-    about their rights, participate in decisions affecting them and are taken
-    seriously.
-
-    4. Family Engagement:  Families and communities are informed and involved in
-    promoting child safety and wellbeing.
-
-    5. Diversity and Equity:  Equity is upheld and diverse needs are respected
-    in policy and practice.
-
-    6. Suitable Staff and Volunteers:  People working with children and young
-    people are suitable and supported to reflect child safety and wellbeing
-    values in practice.
-
-    7. Complaints Processes:  ​Ensure that processes for complaints and concerns
-    are child focused.
-
-    8. Child Safety Knowledge, Skills and Awareness:  Staff and volunteers are
-    equipped with the knowledge, skills and awareness to keep children and young
-    people safe through ongoing education and training.
-
-    9. Child Safety in Physical and Online Environments:  Physical and online
-    environments promote safety and wellbeing while minimising the opportunity
-    for children and young people to be harmed.
-
-    10. Review of Child Safety Practices:  ​Implementation of the Child Safe
-    Standards is regularly reviewed and improved.
-
-    11. Implementation of Child Safety Practices:  ​Policies and procedures that
-    document how our service is safe for children and young people.
+  description: ''
 meta:
   description: >-
     Our priority is providing your child with a safe, clean and nurturing

@@ -3,10 +3,47 @@ template: DefaultPage
 slug: parents/safety-security
 title: 'Safety, Security & Child Safe Standards'
 accordion:
-  - content: "1.  Culturally Safe Environments:  Establish a culturally safe environment in which the diverse and unique identities and experiences of Aboriginal children and young people are respected and valued.\r\n\n2.  Child Safety and Wellbeing Guidance:  Ensure that child safety and wellbeing are embedded in school  leadership, governance and culture.\r\n\n3.  Child and Student Empowerment:  Children and young people are empowered about their rights, participate in decisions affecting them and are taken seriously.\r\n\n4.  Family Engagement:  Families and communities are informed and involved in promoting child safety and wellbeing.\r\n\n5.  Diversity and Equity:  Equity is upheld and diverse needs are respected in policy and practice.\r\n\n6.  Suitable Staff and Volunteers:  People working with children and young people are suitable and supported to reflect child safety and wellbeing values in practice.\r\n\n7.  Complaints Processes:  ​Ensure that processes for complaints and concerns are child focused.\r\n\n8.  Child Safety Knowledge, Skills and Awareness:  Staff and volunteers are equipped with the knowledge, skills and awareness to keep children and young people safe through ongoing education and training.\r\n\n9.  Child Safety in Physical and Online Environments:  Physical and online environments promote safety and wellbeing while minimising the opportunity for children and young people to be harmed.\r\n\n10.  Review of Child Safety Practices:  ​Implementation of the Child Safe Standards is regularly reviewed and improved.\r\n\n11.  Implementation of Child Safety Practices:  ​Policies and procedures that document how schools are safe for children, young people and students."
-    title: Child Safe Standards
+  - content: ''
+    title: ''
 infoSection:
-  description: "1.  Culturally Safe Environments:  Establish a culturally safe environment in which the diverse and unique identities and experiences of Aboriginal children and young people are respected and valued.\r\n\n2.  Child Safety and Wellbeing Guidance:  Ensure that child safety and wellbeing are embedded in school  leadership, governance and culture.\r\n\n3.  Child and Student Empowerment:  Children and young people are empowered about their rights, participate in decisions affecting them and are taken seriously.\r\n\n4.  Family Engagement:  Families and communities are informed and involved in promoting child safety and wellbeing.\r\n\n5.  Diversity and Equity:  Equity is upheld and diverse needs are respected in policy and practice.\r\n\n6.  Suitable Staff and Volunteers:  People working with children and young people are suitable and supported to reflect child safety and wellbeing values in practice.\r\n\n7.  Complaints Processes:  ​Ensure that processes for complaints and concerns are child focused.\r\n\n8.  Child Safety Knowledge, Skills and Awareness:  Staff and volunteers are equipped with the knowledge, skills and awareness to keep children and young people safe through ongoing education and training.\r\n\n9.  Child Safety in Physical and Online Environments:  Physical and online environments promote safety and wellbeing while minimising the opportunity for children and young people to be harmed.\r\n\n10.  Review of Child Safety Practices:  ​Implementation of the Child Safe Standards is regularly reviewed and improved.\r\n\n11.  Implementation of Child Safety Practices:  ​Policies and procedures that document how schools are safe for children, young people and students."
+  description: >-
+    1. Culturally Safe Environments:  Establish a culturally safe environment in
+    which the diverse and unique identities and experiences of Aboriginal
+    children and young people are respected and valued.
+
+    2. Child Safety and Wellbeing Guidance:  Ensure that child safety and
+    wellbeing are embedded in organisation leadership, governance and culture.
+
+    3. Child and Student Empowerment:  Children and young people are empowered
+    about their rights, participate in decisions affecting them and are taken
+    seriously.
+
+    4. Family Engagement:  Families and communities are informed and involved in
+    promoting child safety and wellbeing.
+
+    5. Diversity and Equity:  Equity is upheld and diverse needs are respected
+    in policy and practice.
+
+    6. Suitable Staff and Volunteers:  People working with children and young
+    people are suitable and supported to reflect child safety and wellbeing
+    values in practice.
+
+    7. Complaints Processes:  ​Ensure that processes for complaints and concerns
+    are child focused.
+
+    8. Child Safety Knowledge, Skills and Awareness:  Staff and volunteers are
+    equipped with the knowledge, skills and awareness to keep children and young
+    people safe through ongoing education and training.
+
+    9. Child Safety in Physical and Online Environments:  Physical and online
+    environments promote safety and wellbeing while minimising the opportunity
+    for children and young people to be harmed.
+
+    10. Review of Child Safety Practices:  ​Implementation of the Child Safe
+    Standards is regularly reviewed and improved.
+
+    11. Implementation of Child Safety Practices:  ​Policies and procedures that
+    document how schools are safe for children, young people and students.
 meta:
   description: >-
     Our priority is providing your child with a safe, clean and nurturing

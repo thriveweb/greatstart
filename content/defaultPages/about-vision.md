@@ -230,7 +230,7 @@ We recognise and respect Aboriginal and Torres Strait Islander peoples as the tr
 
 The organisation has a strong commitment to child safety, wellbeing and protection, through implementing and adherence to the Child Safe Standards and the Information Sharing Scheme. This commitment extends to all children in our service and community with an aim for children to feel safe, secure and supported. The welfare of the children in our care will always be our first priority and we have a zero-tolerance approach to child abuse and harm.  We acknowledge the importance of our organisation and community to be committed to culturally safety of aboriginal children, the cultural safety for culturally and/or linguistically diverse children and safety of children with a disability.
 
-Please see Parent section for more information on how we deliver on Safety, Security and Child Safe Standards.
+Please see Parent section of our website for more information on how we deliver on Safety, Security and Child Safe Standards.
 
 #### Giving back
 

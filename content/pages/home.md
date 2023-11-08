@@ -22,7 +22,7 @@ homeSection1:
         the Mildura CBD area.
       linkTo: /centres/mildura-central-early-learning-centre/
       logo: /images/uploads/mildura-central.svg
-  title: Our Learning Centres...
+  title: Our Learning Centres
 homeSection2:
   content: >-
     We are committed to educational excellence for every child through the

@@ -103,7 +103,7 @@ enrolmentsSection3: >-
 
   * Employer’s name, address and telephone number (both parents)
 
-  * Doctors name, address and telephone number
+  * Doctor & Dentist: name, address and telephone number
 
   * Medicare Details
 

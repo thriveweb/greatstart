@@ -30,15 +30,15 @@ accordionSection:
     title: About us
   - accordion:
       - content: >-
-          Yes, we have a funded four-year-old kindergarten program and employ a
-          kindergarten teacher who holds a Bachelor of Education. Our
+          Yes, we have a funded three and four-year-old kindergarten program and
+          employ a kindergarten teachers who holds a Bachelor of Education. Our
           Kindergarten programs are the same as at council run kindergartens and
-          private schools. The difference is we operate from 7am to 6pm Monday
+          private schools. The difference is we operate extended hours, Monday
           to Friday and are open 52 weeks a year and open all school holidays;
           catering to all family and work situations.
         title: >-
-          Do you have a funded four-year-old kindergarten program at your
-          centres with a qualified Kindergarten Teacher?
+          Do you have a funded three and four-year-old kindergarten program at
+          your centres with a qualified Kindergarten Teachers?
       - content: "The ratios of educators to children are regulated by the Victorian Government. We always ensure these ratios are met or exceeded over the service as follows: .\L\n\n0-3 year old children  - 1 educator : 4 children.\n\n\L3-5 year old children - 1 educator : 11 children."
         title: What are the staff to child ratios?
       - content: >-

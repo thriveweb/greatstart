@@ -2,7 +2,7 @@
 template: QKPortalPage
 slug: learning/qk-curriculum-portal
 title: QK Journeys Curriculum Portal
-image: /images/uploads/portal-image.png
+image: /images/uploads/owna-parent-features-graphic.png
 boxTitle: QK Journeys Curriculum Portal
 boxContent: >-
   We use QK Journeys Curriculum Portal to create and share learning with

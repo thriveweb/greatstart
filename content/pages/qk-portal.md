@@ -1,7 +1,7 @@
 ---
 template: QKPortalPage
 slug: learning/qk-curriculum-portal
-title: QK Journeys Curriculum Portal
+title: OWNA Portal & App
 image: /images/uploads/owna-parent-features-graphic.png
 boxTitle: QK Journeys Curriculum Portal
 boxContent: >-

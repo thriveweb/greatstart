@@ -20,7 +20,9 @@ checklist:
        your child Immunisation Record in OWNA?
   - cell1: "Completed Medication Conditions Form and uploaded onto QK Enrol? (if\r applicable)"
   - cell1: "Have you been informed about the various Educator-Parent communication\r methods used within the centre?"
-  - cell1: "You have access to the My Family Lounge: QK Enrol and QK Journeys?\r (Downloaded the My Family Lounge App.)"
+  - cell1: |-
+      You have access to the OWNA: Portal and App?
+       (Download the App from App Stores.)
   - cell1: "Discussed the curriculum and the features of our educational programs?\r Completed the All About Me form and your Child’s Learning Plan?"
   - cell1: Been shown the sign in and out Kiosk?
   - cell1: Reviewed the recommendations for what your child needs to bring?

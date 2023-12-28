@@ -52,7 +52,7 @@ features:
         Journeys allowing you to contribute to the statement and also view
         information prepared to assist your child transition to school smoothly.
       icon: /images/uploads/scroll.svg
-  title: 'QK Journeys has the following features:'
+  title: 'OWNA has the following features:'
 meta:
   description: >-
     QK Journeys allows educators to plan, set goals, prepare learning

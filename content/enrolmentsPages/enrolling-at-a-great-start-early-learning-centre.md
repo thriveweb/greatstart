@@ -27,19 +27,19 @@ breakoutBox:
 enrolmentsSection2:
   steps:
     - content: >-
-        For NEW families to the Centre who have an EXISTING My Family Lounge
-        account (from the Great Start Early Learning Centre or another
-        organisation), skip the registration process and go to the next step. 
+        For NEW families to the Centre who have an EXISTING OWNA Portal and App
+        (from the Great Start Early Learning Centre or another organisation),
+        skip the registration process and go to the next step. 
 
 
-        For NEW families to this centre who have not used My Family Lounge and
-        therefore do not have an existing account, Click on the REGISTER button
-        on the right. You will be taken through to a registration process to
-        create your My Family Lounge account.
+        For NEW families to this centre who have not used OWNA and therefore do
+        not have an existing account, Click on the REGISTER button on the right.
+        You will be taken through to a registration process to create your My
+        Family Lounge account.
 
 
         The email address you enter will be the user name and also the email
-        address from which you receive correspondence going forward. 
+        address from which you receive correspondence going forward.
 
 
         During the registration process, you will be sent an email from My
@@ -51,13 +51,9 @@ enrolmentsSection2:
       title: Register For My Family Lounge
     - content: >-
         If there are no vacancies at the centre, please complete the waitlisting
-        form using the QK Enrol portal. We regularly review the waitlist and we
-        will contact you if a place becomes available.
-
-
-        In the My Family Lounge, enter QK Enrol, press ‘Add Child’ under the
-        ‘Child’ section. Search and select our centre. Add in your child details
-        and answer the waitlist questions. Press Save.
+        form. We regularly review the waitlist and we will contact you if a
+        place becomes available. Add in your child details and answer the
+        waitlist questions. Press Submit.
       title: Add Your Child To The Waitlist
     - content: >-
         Enter QK Enrol in the My Family Lounge. Under Booking Requests, click

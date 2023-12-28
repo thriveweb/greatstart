@@ -43,10 +43,10 @@ accordionSection:
         title: What are the staff to child ratios?
       - content: >-
           All educators require a minimum of Certificate III in Children’s
-          Services. Each room has a Leading Educator who holds a Diploma in
-          Children’s Services or higher. All educators have successfully gained
-          a Working with Children’s Check and all hold formal certification in
-          First Aid and Asthma & Anaphylaxis.
+          Services. Each room has a Leading Educator who typically holds a
+          Diploma in Children’s Services or higher. All educators have
+          successfully gained a Working with Children’s Check and all hold
+          formal certification in First Aid and Asthma & Anaphylaxis.
 
 
           Please see further information on our commitment to Child Safe

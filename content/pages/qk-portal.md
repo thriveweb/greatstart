@@ -46,11 +46,13 @@ features:
         against the Early Years Learning Framework Outcomes.
       icon: /images/uploads/clipboard.svg
     - description: >-
-        ##### Kindergarten Transition Statements
+        ##### Daily Wellbeing Information
 
-        Your child’s kindergarten transition statement is prepared using QK
-        Journeys allowing you to contribute to the statement and also view
-        information prepared to assist your child transition to school smoothly.
+
+        Your child’s daily wellbeing informaiton is recorded and published on
+        the App for you to view. Information is recorded when your child nappy
+        is changed, sleeping and has a meal. This information help you plan you
+        home routine.
       icon: /images/uploads/scroll.svg
   title: 'OWNA has the following features:'
 meta:

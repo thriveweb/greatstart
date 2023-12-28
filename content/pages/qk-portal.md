@@ -60,8 +60,8 @@ features:
   title: 'OWNA has the following features:'
 meta:
   description: >-
-    QK Journeys allows educators to plan, set goals, prepare learning
-    documentation and create your child’s learning portfolio.
-  title: QK Journeys Curriculum Portal | Great Start ELC
+    OWNA allows educators to plan, set goals, prepare learning documentation and
+    create your child’s learning portfolio.
+  title: OWNA Portal & App | Great Start ELC
 ---
 

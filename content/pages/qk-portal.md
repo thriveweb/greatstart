@@ -5,15 +5,13 @@ title: OWNA Portal & App
 image: /images/uploads/owna-parent-features-graphic.png
 boxTitle: QK Journeys Curriculum Portal
 boxContent: >-
-  We use QK Journeys Curriculum Portal to create and share learning with
-  parents. QK Journeys is accessed via the My Family Lounge account which is
-  created upon enrolment of your child.
+  We use OWNA Portal and App to create and share learning with parents.
 
 
-  QK Journeys allows educators to plan, set goals, prepare learning
-  documentation and create your child’s learning portfolio. The My Family Lounge
-  App and website allows parents to feel more involved in their child’s day by
-  providing daily information on their learning and experiences.
+  OWNA allows educators to plan, set goals, prepare learning documentation and
+  create your child’s learning portfolio. The App and website allows parents to
+  feel more involved in their child’s day by providing daily information on
+  their learning and experiences.
 features:
   featuresItem:
     - description: |-

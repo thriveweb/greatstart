@@ -18,7 +18,9 @@ checklist:
   - cell1: |-
       Have you been informed of the Immunisation Policy and the need to maintain
        your child Immunisation Record in OWNA?
-  - cell1: "Completed Medication Conditions Form and uploaded onto QK Enrol? (if\r applicable)"
+  - cell1: |-
+      Completed Medication Conditions Form and uploaded onto OWNA? (if
+       applicable)
   - cell1: "Have you been informed about the various Educator-Parent communication\r methods used within the centre?"
   - cell1: |-
       You have access to the OWNA: Portal and App?

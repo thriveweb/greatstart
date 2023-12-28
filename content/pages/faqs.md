@@ -189,9 +189,8 @@ accordionSection:
           their new environments.
         title: When does my Child Transition Between Classrooms?
       - content: >-
-          Please refer to the Enrolment [Terms and
-          Conditions](/images/uploads/terms-conditions.pdf) , Complying Written
-          Agreement document and  [Enrolment Policy and Priority of Access
+          Please refer to the Enrolment Terms and Conditions, Complying Written
+          Arrangement (CWA) and [Enrolment Policy and Priority of Access
           Policy](/images/uploads/1-enrolment-policy-and-priority-of-access-policy_06-2020.pdf).
         title: What are the Enrolment Terms and Conditions?
     title: Parent Info

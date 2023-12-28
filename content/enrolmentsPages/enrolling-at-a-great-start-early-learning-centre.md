@@ -11,18 +11,18 @@ enrolmentsSection1:
 breakoutBox:
   content: >-
     In order to enrol your child in a Great Start Early Learning Centre, you
-    will need to register with My Family Lounge, a parent portal providing
+    will need to be provided access to OWNA parent portal and app providing
     access for parents to view published observations, photos and stories as
     well as manage their waitlist and enrolments. When a vacancy arises, you
     will be contacted by the Centre Director with an offer of placement. When an
     offer for placement is made to you, please accept the enrolment and complete
-    the online enrolment form and direct debit authorisation form.
+    the online enrolment form, direct debit authorisation form and Complying
+    Written Arrangement (CWA).
 
 
     Note: Before applying for a placement at the centre, it is important that
-    you have read and agree to abide by the Enrolment [Terms and
-    Conditions](/images/uploads/terms-conditions.pdf), Centre Policies and
-    Procedures.
+    you have read and agree to abide by the Enrolment Terms and Conditions,
+    Centre Policies and Procedures.
   title: How to enrol your child in a Great Start Learning Centre
 enrolmentsSection2:
   steps:

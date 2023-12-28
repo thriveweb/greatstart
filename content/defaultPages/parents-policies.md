@@ -582,8 +582,7 @@ accordion:
       ensuring quality education and care is being provided.  The Centre
       Director is also available at all times to the families in our service for
       both formal and informal discussions on the centre’s operations and their
-      children. Due to the experience and knowledge held by the Centre Director
-      they also are the Head Educational Leader.
+      children. 
 
 
       ###### Responsible Persons:
@@ -595,10 +594,26 @@ accordion:
       centre.
 
 
-      ###### Educational Leaders:
+      ###### Educational Leader:
 
 
-      Within the service we have a committee of Educational Leaders. The
+      The role of the educational leader is primarily to: 
+
+
+      * collaborate with educators and provide curriculum direction and
+      guidance. 
+
+      * support educators to effectively implement the cycle of planning to
+      enhance programs and practices; and 
+
+      * lead the development and implementation of an effective educational
+      program in the service.
+
+
+      ###### Educational Room Leaders:
+
+
+      Within the service we have a committee of Educational Room Leaders. The
       Educational Leaders are room leaders within the service where they
       supervise and direct and engage both team members and children in relation
       to the educational programs and care routines.

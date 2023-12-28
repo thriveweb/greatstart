@@ -15,7 +15,9 @@ checklist:
   - cell1: 'Enrolment Form, CWA and Direct Debit Authority Form completed?'
   - cell1: "Have you been informed of the centre policies and procedures including; Open-\rDoor Policy, Sun Safety Policy, Emergency Management Plan, Immunisation\r Policy, and Medical Conditions Policy and Procedures?"
   - cell1: "Advised of hours of operation, fee policy and schedule; including charges for\r public holidays, sick days and absent days?"
-  - cell1: "Have you been informed of the Immunisation Policy and the need to maintain\r your child Immunisation Record in QK Enrol?"
+  - cell1: |-
+      Have you been informed of the Immunisation Policy and the need to maintain
+       your child Immunisation Record in OWNA?
   - cell1: "Completed Medication Conditions Form and uploaded onto QK Enrol? (if\r applicable)"
   - cell1: "Have you been informed about the various Educator-Parent communication\r methods used within the centre?"
   - cell1: "You have access to the My Family Lounge: QK Enrol and QK Journeys?\r (Downloaded the My Family Lounge App.)"

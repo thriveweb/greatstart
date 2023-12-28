@@ -20,9 +20,12 @@ features:
         ##### Child Learning Portfolio
         You can view your child’s portfolio online at a convenient time.
       icon: /images/uploads/file.svg
-    - description: |-
-        ##### Child Image Gallery
-        See photos of your child in the image gallery.
+    - description: >-
+        ##### Educational Plan
+
+
+        See can view the Education Plan for the learning experiences plans for
+        the day and week.
       icon: /images/uploads/image.svg
     - description: >-
         ##### View Daily Journals

@@ -73,7 +73,7 @@ accordionSection:
           and add your last name. Once your child has been born please be in
           touch with us to update their date of birth and first name.
         title: Can I join the waitlist if my child has not been born yet?
-      - content: "Please see the links below to access the Help Guide for the OWNA and the self-help videos so you feel confident using the parent portal and App to its full potential.\_OWNA Help Guide: \n\nFeel free to watch the self-help videos on the following topics: https://www.youtube.com/@OWNAapp/videos"
+      - content: "Please see the links below to access the Help Guide for the OWNA and the self-help videos so you feel confident using the parent portal and App to its full potential.\_OWNA Help Guide: https://ownaportal.tawk.help/   \n\nFeel free to watch the self-help videos on the following topics: https://www.youtube.com/@OWNAapp/videos"
         title: Do you have a Help Guide for OWNA?
     title: Enrolments
   - accordion:

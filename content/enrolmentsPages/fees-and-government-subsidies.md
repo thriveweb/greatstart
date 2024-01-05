@@ -160,17 +160,17 @@ accordion:
       for more information.
     title: Entitlement When Your Child is Absent
   - content: >-
-      To secure child’s enrolment, an initial fee of two weeks fees is required
-      to be paid on enrolment of your child or $100 (whichever is greater). The
-      initial fee is not refundable under any circumstances; I.e. if you child
-      does not attend the centre as booked, you cancel your child enrolment
-      before commencement, etc. 
+      To secure child’s enrolment, an initial enrolment booking fee of two weeks
+      fees is required to be paid on enrolment of your child: $100 or two weeks
+      fees (whichever is greater). The initial fee is not refundable under any
+      circumstances; I.e. if you child does not attend the centre as booked, you
+      cancel your child enrolment before commencement, etc. 
 
 
       Once your child commences at the centres, the amount equal to the initial
-      fee will be credited to your account and offset against the attendance
-      fees charged.
-    title: Initial Fees to Secure Enrolment
+      enrolment booking fee will be credited to your account and offset against
+      the attendance fees charged.
+    title: Initial Enrolment Booking Fees to Secure Enrolment
   - content: >-
       Families taking annual leave will be entitled to a holiday discount in
       accordance with the fee schedule of the centre, provided two weeks notice
@@ -269,7 +269,7 @@ accordion:
     title: Changes to your Child’s Regular Booked Days
 downloadFileText: Download and View Enrolment Terms and Conditions
 downloadFile: >-
-  /images/uploads/02.-great-start-early-learning-centres_terms-and-conditions_06.18_pdf.pdf
+  /images/uploads/02.-great-start-early-learning-centres_terms-and-conditions_ow_8-11-23_pdf.pdf
 meta:
   description: >-
     We Offer Flexible Hour Sessions. We know that there is no one size fits all

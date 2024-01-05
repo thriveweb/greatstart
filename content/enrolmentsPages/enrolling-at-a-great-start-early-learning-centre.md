@@ -40,7 +40,7 @@ enrolmentsSection2:
         our Approved Kindergarten Program, etc.
 
 
-        We regularly review the waitlist and we will contact you if a place
+        We regularly review the waitlist and we will contact you when a place
         becomes available.
       title: Add Your Child To The Waitlist
     - content: >-

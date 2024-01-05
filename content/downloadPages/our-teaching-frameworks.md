@@ -4,7 +4,7 @@ slug: learning/our-teaching-frameworks
 title: Our Teaching Frameworks
 downloadBanner:
   file: /images/uploads/eylf-learning-framework-a3-poster_v2.pdf
-  preview: /images/uploads/being-becoming-book.png
+  preview: /images/uploads/eylfv2-pic.png
   title: >-
     You can download the Belonging, Being and Becoming - The Early Years    
     Learning Framework Guide

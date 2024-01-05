@@ -36,7 +36,7 @@ enrolmentsSection2:
 
         On completion of the tour, the service will email you an online waitlist
         form for you to complete. The waitlist email will also provide other
-        informations such as the fees, our service offering, information about
+        information such as the fees, our service offering, information about
         our Approved Kindergarten Program, etc.
 
 

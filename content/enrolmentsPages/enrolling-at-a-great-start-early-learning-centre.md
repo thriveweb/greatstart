@@ -30,7 +30,7 @@ enrolmentsSection2:
       iframeSource: 'https://www.qkenhanced.com.au/Account/Embeddable/?databaseId=5583'
       title: Undertaking a Centre Tour
     - content: >-
-        After you have completed a centre tour please complete a Waitlist Form
+        After you have completed a centre tour, please complete a Waitlist Form
         for each child you are seeking to attend the service. 
 
 

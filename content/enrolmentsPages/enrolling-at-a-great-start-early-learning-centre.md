@@ -48,7 +48,7 @@ enrolmentsSection2:
         the terms and conditions of enrolment. On completion of My Family Lounge
         registration, enter QK Enrol to add your contact information.
       iframeSource: 'https://www.qkenhanced.com.au/Account/Embeddable/?databaseId=5583'
-      title: Register For My Family Lounge
+      title: Undertaking a Centre Tour
     - content: >-
         If there are no vacancies at the centre, please complete the waitlisting
         form. We regularly review the waitlist and we will contact you if a
@@ -193,3 +193,4 @@ meta:
     curriculum. 
   title: Enrolling at a Great Start Early Learning Centre | Great Start ELC
 ---
+

@@ -126,7 +126,7 @@ enrolmentsSection1:
     days.
 
 
-    https://www.dese.gov.au/child-care-subsidy/absences-child-care 
+    Please see the Government website for current information.
 
 
     ![null](/images/uploads/ccs-hours-table_07-18.png)

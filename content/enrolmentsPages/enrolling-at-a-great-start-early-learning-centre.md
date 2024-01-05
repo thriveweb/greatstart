@@ -40,9 +40,8 @@ enrolmentsSection2:
         our Approved Kindergarten Program, etc.
 
 
-        If there are no vacancies, we ask for you to please complete the
-        waitlisting form. We regularly review the waitlist and we will contact
-        you if a place becomes available.
+        We regularly review the waitlist and we will contact you if a place
+        becomes available.
       title: Add Your Child To The Waitlist
     - content: >-
         Enter QK Enrol in the My Family Lounge. Under Booking Requests, click

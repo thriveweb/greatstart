@@ -46,7 +46,7 @@ enrolmentsSection2:
     - content: >-
         Once you are offered a place, you will complete an Enrolment Form,
         Direct Debit Authorisation Form and Complying Written Arrangement (CWA)
-        for each child. 
+        for each child been offered a place at our early learning centre. 
 
 
         We will issue an Enrolment email to you once we have discussed and
@@ -74,7 +74,7 @@ enrolmentsSection2:
 
 
         We will contact you to arrange suitable times for you and your child to
-        undertake orientation at the centre.
+        undertake orientation at the early learning centre.
       title: >-
         Enrolling at the Our Early Learning Centre (Steps Once Been Offered a
         Place)

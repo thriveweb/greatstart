@@ -26,27 +26,7 @@ breakoutBox:
   title: How to enrol your child in a Great Start Learning Centre
 enrolmentsSection2:
   steps:
-    - content: >-
-        For NEW families to the Centre who have an EXISTING OWNA Portal and App
-        (from the Great Start Early Learning Centre or another organisation),
-        skip the registration process and go to the next step. 
-
-
-        For NEW families to this centre who have not used OWNA and therefore do
-        not have an existing account, Click on the REGISTER button on the right.
-        You will be taken through to a registration process to create your My
-        Family Lounge account.
-
-
-        The email address you enter will be the user name and also the email
-        address from which you receive correspondence going forward.
-
-
-        During the registration process, you will be sent an email from My
-        Family Lounge. Once you receive this email, click the ‘Complete
-        Registration’ button to enter a password and also review and agree to
-        the terms and conditions of enrolment. On completion of My Family Lounge
-        registration, enter QK Enrol to add your contact information.
+    - content: "If you have not undertaken a recent centre tour, please contact us\_to arrange a suitable time to show you why attending our early learning centre\_is the best choice for your child’s early education and care. Please contact us and we will book your private tour. You can we see first-hand why we are rated \"Exceeding\" National Quality Standards."
       iframeSource: 'https://www.qkenhanced.com.au/Account/Embeddable/?databaseId=5583'
       title: Undertaking a Centre Tour
     - content: >-

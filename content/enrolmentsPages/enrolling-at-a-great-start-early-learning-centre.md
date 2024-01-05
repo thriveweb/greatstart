@@ -30,8 +30,8 @@ enrolmentsSection2:
       iframeSource: 'https://www.qkenhanced.com.au/Account/Embeddable/?databaseId=5583'
       title: Undertaking a Centre Tour
     - content: >-
-        After you have completed a centre tour, please complete a Waitlist Form
-        for each child you are seeking to attend the service. 
+        After you have completed a centre tour, please complete the online
+        Waitlist Form for each child you are seeking to attend the service. 
 
 
         On completion of the tour, the service will email you an online waitlist
@@ -42,10 +42,6 @@ enrolmentsSection2:
 
         We regularly review the waitlist and we will contact you when a place
         becomes available.
-
-
-        Once you are offered a place at the service you will need to complete an
-        enrolment form for each child.
       title: Add Your Child To The Waitlist
     - content: >-
         Once you are offered a place, you will complete an Enrolment Form,

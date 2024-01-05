@@ -10,14 +10,17 @@ enrolmentsSection1:
     curriculum and learning programs and see our environment first hand.
 breakoutBox:
   content: >-
-    In order to enrol your child in a Great Start Early Learning Centre, you
-    will need to be provided access to OWNA parent portal and app providing
-    access for parents to view published observations, photos and stories as
-    well as manage their waitlist and enrolments. When a vacancy arises, you
-    will be contacted by the Centre Director with an offer of placement. When an
-    offer for placement is made to you, please accept the enrolment and complete
-    the online enrolment form, direct debit authorisation form and Complying
-    Written Arrangement (CWA).
+    To add your children's name to waitlist and enrol your child in a Great
+    Start Early Learning Centre, you will need to be provided access to OWNA
+    parent portal and app.  Once provided links to forms and access you will be
+    able to complete waitlist forms, manage enrolment forms, view educational
+    plans, learning documentation, photos and stories. 
+
+
+    When a vacancy arises, you will be contacted by the Centre Director with an
+    offer of placement. When an offer for placement is made to you, please
+    accept the enrolment and complete the online enrolment form, direct debit
+    authorisation form and Complying Written Arrangement (CWA).
 
 
     Note: Before applying for a placement at the centre, it is important that

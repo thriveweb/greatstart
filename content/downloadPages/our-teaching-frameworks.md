@@ -3,8 +3,7 @@ template: DownloadPages
 slug: learning/our-teaching-frameworks
 title: Our Teaching Frameworks
 downloadBanner:
-  file: >-
-    /images/uploads/belonging_being_and_becoming_the_early_years_learning_framework_for_australia._v5_docx.pdf
+  file: /images/uploads/eylf-learning-framework-a3-poster_v2.pdf
   preview: /images/uploads/being-becoming-book.png
   title: >-
     You can download the Belonging, Being and Becoming - The Early Years    

@@ -52,7 +52,7 @@ enrolmentsSection2:
         ‘New Request’ and the ‘Add Waitlist Details’ screen will appear. Follows
         steps and press save to add child’s name to centre waitlist. The centre
         will be in contact once a position is available.
-      title: Add Your Booking Request To The Waitlist
+      title: Steps Once Been Offered a Place
     - content: >-
         Once you are offered a place, you will complete an Enrolment Form,
         Direct Debit Authorisation Form and Complying Written Arrangement (CWA)

@@ -22,10 +22,8 @@ accordionSection:
           embrace the Victorian and National Early Years Learning Frameworks.
         title: What is your centre’s curriculum based on?
       - content: >-
-          Prior to using the app, you will need to complete the registration
-          process OWNA Portal adn App. The free app is available for both
-          Android and Apple devices. Simply go to the Google Play or App store
-          and search 'OWNA'.
+          The free app is available for both Android and Apple devices. Simply
+          go to the Google Play or App store and search 'OWNA'.
         title: How do I download the OWNA Portal and App?
     title: About us
   - accordion:

@@ -3,7 +3,7 @@ template: Handbooks
 slug: parents/centre-forms-and-handbooks
 title: 'Key Policies, Centre Forms and Handbooks'
 downloadableForms:
-  - file: /images/uploads/p001-centre-policy-handbook_oct-2023.5_pdf.pdf
+  - file: /images/uploads/p001-centre-policy-handbook_dec-2023_pdf.pdf
     title: Service Policy Handbook
   - file: ''
     title: >-

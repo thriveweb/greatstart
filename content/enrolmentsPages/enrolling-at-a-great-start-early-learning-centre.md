@@ -47,13 +47,7 @@ enrolmentsSection2:
         Once you are offered a place at the service you will need to complete an
         enrolment form for each child.
       title: Add Your Child To The Waitlist
-    - content: >-
-        Once you have been offered a place at our early learning service you
-        need to complete an enrolment form for each child.
-
-
-        We will issue a separate Enrolment email once we have discussed and
-        offered your family a place at the service.
+    - content: "_STEP 1:\_ Complete Child Enrolment Form_\n\nOnce you have been offered a place at our early learning service you need to complete an enrolment form for each child.\n\nWe will issue a separate Enrolment email once we have discussed and offered your family a place at the service."
       title: >-
         Enrolling at the Our Early Learning Centre (Steps Once Been Offered a
         Place)

@@ -3,7 +3,7 @@ template: QKPortalPage
 slug: learning/qk-curriculum-portal
 title: OWNA Portal & App
 image: /images/uploads/owna-parent-features-graphic.png
-boxTitle: Curriculum Portal & App
+boxTitle: OWNA Portal & App
 boxContent: >-
   We use OWNA Portal and App to create and share learning with parents.
 

@@ -9,8 +9,6 @@ downloadableForms:
     title: >-
       Enrolment Policy and Priority of Access Policy - please see Centre Policy
       Handbook
-  - file: /images/uploads/31-illness-policy_3-0-7-2023_pdf.pdf
-    title: Illness Policy
   - file: /images/uploads/ascia_action_plan_allergic_reactions_green_2021_web.pdf
     title: Action Plan Allergic Reactions (PDF)
   - file: /images/uploads/allergy_management-risk-communication-plan_08.18.pdf
@@ -30,7 +28,7 @@ downloadableForms:
   - file: /images/uploads/anaphylaxis_risk_minimisation_cec_october_2021.pdf
     title: Anaphylaxis - Risk Minimisation Strategies Table (PDF)
   - file: >-
-      /images/uploads/asthma-care-plan_aacped2020a4-care-plan-for-schools_v05-2022.pdf
+      /images/uploads/aa2023_asthma-action-plan-a4_v19_colour_editable_10-2023.pdf
     title: Asthma - Management & Care Plan (PDF)
   - file: >-
       /images/uploads/asthma_risk-minimisation-and-comminication-plan_gselc_8.18.pdf

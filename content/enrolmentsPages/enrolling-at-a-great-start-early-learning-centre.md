@@ -95,7 +95,8 @@ enrolBanner:
   buttonTitle: ''
   title: ''
 enrolmentsSection3: >-
-  ###### The information you need to have available for enrolment form includes:
+  ###### When it is time to complete enrolment forms, you will need to have the
+  following information available for enrolment form:
 
 
   * Customer Reference Number (CRN) for your child
@@ -103,11 +104,11 @@ enrolmentsSection3: >-
   * CRN for parents
 
   * Contact details for emergency contacts and adults who will also be
-  collecting children from centre (Names, Address, and Telephone numbers).
-  Please note you are required to have a minimum of two people as authorised
-  nominees
+  collecting children from centre (Names, Address, and Telephone numbers, Email
+  Address, Copy of IDs). Please note you are required to have a minimum of two
+  people as authorised nominees
 
-  * Employer’s name, address and telephone number (both parents)
+  * Employer’s name, address, email address and telephone number (both parents)
 
   * Doctor & Dentist: name, address and telephone number
 

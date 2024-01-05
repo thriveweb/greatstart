@@ -42,6 +42,10 @@ enrolmentsSection2:
 
         We regularly review the waitlist and we will contact you when a place
         becomes available.
+
+
+        Once you are offered a place at the service you will need to complete an
+        enrolment form for each child.
       title: Add Your Child To The Waitlist
     - content: >-
         Enter QK Enrol in the My Family Lounge. Under Booking Requests, click

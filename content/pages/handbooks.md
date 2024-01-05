@@ -9,15 +9,15 @@ downloadableForms:
     title: >-
       Enrolment Policy and Priority of Access Policy - please see Centre Policy
       Handbook
-  - file: /images/uploads/ascia_action_plan_allergic_reactions_green_2021_web.pdf
+  - file: ''
     title: Action Plan Allergic Reactions (PDF)
   - file: /images/uploads/allergy_management-risk-communication-plan_08.18.pdf
     title: Allergy Management Risk Communication Plan (Service PDF)
   - file: /images/uploads/anaphylaxis-_management-risk-communication-plan_08.18.pdf
     title: Anaphylaxis - Management Risk Communication Plan (Service PDF)
-  - file: /images/uploads/ascia_action_plan_anaphylaxis_red_epipen_2021_web.pdf
+  - file: ''
     title: Anaphylaxis - Action Plan EpiPen (PDF)
-  - file: /images/uploads/ascia_action_plan_anaphylaxis_red_anapen_2022.pdf
+  - file: ''
     title: Anaphylaxis - Action Plan Epinephrine Autoinjector - AnaPen (PDF)
   - file: >-
       /images/uploads/anaphylaxis_ascia-hp-anaphylaxis-checklist_for-doctor_0818.pdf

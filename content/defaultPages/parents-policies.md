@@ -660,7 +660,7 @@ accordion:
       services.
 
 
-      #### Department of Education and Training (DET)
+      #### Department of Education
 
 
       The Department provides services to children and young people both

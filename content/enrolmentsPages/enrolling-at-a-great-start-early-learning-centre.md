@@ -31,13 +31,18 @@ enrolmentsSection2:
       title: Undertaking a Centre Tour
     - content: >-
         After you have completed a centre tour please complete a Waitlist Form
-        for eah child you are seeking to attend the service. 
+        for each child you are seeking to attend the service. 
 
 
-        If there are no vacancies at the centre, please complete the waitlisting
-        form. We regularly review the waitlist and we will contact you if a
-        place becomes available. Add in your child details and answer the
-        waitlist questions. Press Submit.
+        On completion of the tour, the service will email you the waitlist form
+        for you to complete. The waitlist email will also provide other
+        informations such as the fees, our service offering, information about
+        our Approved Kindergarten Program, etc.
+
+
+        If there are no vacancies, we ask for you to please complete the
+        waitlisting form. We regularly review the waitlist and we will contact
+        you if a place becomes available.
       title: Add Your Child To The Waitlist
     - content: >-
         Enter QK Enrol in the My Family Lounge. Under Booking Requests, click

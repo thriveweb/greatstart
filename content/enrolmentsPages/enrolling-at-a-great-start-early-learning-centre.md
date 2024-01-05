@@ -48,11 +48,15 @@ enrolmentsSection2:
         enrolment form for each child.
       title: Add Your Child To The Waitlist
     - content: >-
-        Enter QK Enrol in the My Family Lounge. Under Booking Requests, click
-        ‘New Request’ and the ‘Add Waitlist Details’ screen will appear. Follows
-        steps and press save to add child’s name to centre waitlist. The centre
-        will be in contact once a position is available.
-      title: Steps Once Been Offered a Place
+        Once you have been offered a place at our early learning service you
+        need to complete an enrolment form for each child.
+
+
+        We will issue a separate Enrolment email once we have discussed and
+        offered your family a place at the service.
+      title: >-
+        Enrolling at the Our Early Learning Centre (Steps Once Been Offered a
+        Place)
     - content: >-
         Once you are offered a place, you will complete an Enrolment Form,
         Direct Debit Authorisation Form and Complying Written Arrangement (CWA)

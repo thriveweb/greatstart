@@ -594,7 +594,7 @@ accordion:
       centre.
 
 
-      ###### Educational Leader:
+      ###### Head Educational Leader:
 
 
       The role of the educational leader is primarily to: 
@@ -610,7 +610,7 @@ accordion:
       program in the service.
 
 
-      ###### Educational Room Leaders:
+      ###### Room Leaders:
 
 
       Within the service we have a committee of Educational Room Leaders. The

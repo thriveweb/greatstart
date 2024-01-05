@@ -53,7 +53,7 @@ enrolmentsSection2:
         for each child. 
 
 
-        We will issue a separate Enrolment email once we have discussed and
+        We will issue an Enrolment email to you once we have discussed and
         offered your family a place at the service.
 
 

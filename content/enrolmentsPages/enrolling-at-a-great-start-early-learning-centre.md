@@ -47,33 +47,53 @@ enrolmentsSection2:
         Once you are offered a place at the service you will need to complete an
         enrolment form for each child.
       title: Add Your Child To The Waitlist
-    - content: "_STEP 1:\_ Complete Child Enrolment Form_\n\nOnce you have been offered a place at our early learning service you need to complete an enrolment form for each child.\n\nWe will issue a separate Enrolment email once we have discussed and offered your family a place at the service."
-      title: >-
-        Enrolling at the Our Early Learning Centre (Steps Once Been Offered a
-        Place)
     - content: >-
         Once you are offered a place, you will complete an Enrolment Form,
         Direct Debit Authorisation Form and Complying Written Arrangement (CWA)
-        for each child. In the Complying Written Arrangement you will need to
-        elect the session duration most appropriate for your family. We will
-        contact you to arrange suitable times for you and your child to
-        undertake orientation at the centre.
+        for each child. 
 
 
-        To finalise the enrolment an initial fee must be paid. The initial fee
-        is calculated as the greater of amounts: $100 or two weeks fees. Your
-        centre director will advise the initial fee amount. On your child’s
-        commencement, the initial fee amount will be credited to your account
-        and offset against the amount due for the two weeks fees due in advance.
-        Please note, if your child does not commence as booked, the initial fee
-        is non-refundable.
+        We will issue a separate Enrolment email once we have discussed and
+        offered your family a place at the service.
+
+
+        The CWA will be completed as part of the enrolment process.  In the
+        Complying Written Arrangement you will need to elect the session
+        duration most appropriate for your family. More information will be
+        provided when enrolling.
+
+
+        To finalise the enrolment an initial enrolment booking fee must be paid.
+        The initial fee is calculated as the greater of amounts: $100 or two
+        weeks fees. Your centre director will advise the initial fee amount. On
+        your child’s commencement, the initial fee amount will be credited to
+        your account and offset against the amount due for the two weeks fees
+        due in advance. Please note, if your child does not commence as booked,
+        the initial fee is non-refundable.
 
 
         We’ve made payment easy for you and have direct debit implemented via
         bank account or credit card on a weekly basis. A direct debit authority
-        form is required to be completed and signed upon enrolment. Please
-        complete a new form if any of your information changes.
-      title: Enrolling - Accepting Offer
+        form is required to be completed and signed upon enrolment.
+
+
+        We will contact you to arrange suitable times for you and your child to
+        undertake orientation at the centre.
+      title: >-
+        Enrolling at the Our Early Learning Centre (Steps Once Been Offered a
+        Place)
+    - content: >-
+        Before commencing at the service, we will coordinate three 1 hour
+        orientation sessions will need to be completed by your child. The
+        orientation sessions are short sessions to allow your child to become
+        familiar with the service environment and educators. The orientation
+        sessions allow parents/guardians to ask any questions about the
+        routines, care arrangements and educational program.
+
+
+        During orientation session times you will need to remain present in the
+        service..
+      title: Scheduling Orientation Sessions
 enrolBanner:
   buttonLinkTo: 'https://www.qkenhanced.com.au/webui/Account/Embeddable/?databaseId=5583'
   buttonTitle: Visit Site

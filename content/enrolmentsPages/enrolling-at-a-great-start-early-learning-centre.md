@@ -124,9 +124,10 @@ enrolmentsSection3: >-
 accordion:
   - content: >-
       If court order, parent plans or orders apply, a copy must be provided to
-      the centre on enrolment and uploaded in QK Enrol. Any changes to these
-      orders must be provided to the centre. Unless a custody and contact order
-      applies, both parents are deemed to be authorised to collect their child.
+      the centre on enrolment and uploaded as part of the enrolment form. Any
+      changes to these orders must be provided to the centre. Unless a custody
+      and contact order apply, both parents are deemed to be authorised to
+      collect their child.
     title: 'Court Orders, Parent Plans and Orders'
   - content: >-
       If you child has a Medical Condition or Illness (for example Anaphylaxis,

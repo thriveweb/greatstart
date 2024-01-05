@@ -17,10 +17,11 @@ breakoutBox:
     plans, learning documentation, photos and stories. 
 
 
-    When a vacancy arises, you will be contacted by the Centre Director with an
-    offer of placement. When an offer for placement is made to you, please
-    accept the enrolment and complete the online enrolment form, direct debit
-    authorisation form and Complying Written Arrangement (CWA).
+    After you have completed the online waitlist form and a vacancy arises, you
+    will be contacted by the Centre Director with an offer of placement. When an
+    offer for placement is made to you, please accept the enrolment and complete
+    the online enrolment form, direct debit authorisation form and Complying
+    Written Arrangement (CWA).
 
 
     Note: Before applying for a placement at the centre, it is important that

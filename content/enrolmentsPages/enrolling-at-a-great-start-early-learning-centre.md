@@ -32,6 +32,7 @@ enrolmentsSection2:
   steps:
     - content: "If you have not undertaken a recent centre tour, please contact us\_to arrange a suitable time to show you why attending our early learning centre\_is the best choice for your child’s early education and care. Please contact us and we will book your private tour. You can we see first-hand why we are rated \"Exceeding\" National Quality Standards."
       # iframeSource: 'https://www.qkenhanced.com.au/Account/Embeddable/?databaseId=5583'
+      iframeSource: ''
       title: Undertaking a Centre Tour
     - content: >-
         After you have completed a centre tour, please complete the online

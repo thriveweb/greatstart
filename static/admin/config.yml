@@ -214,7 +214,7 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Noindex, name: noindex, widget: boolean, required: false}
 
       - file: "content/pages/qk-portal.md"
-        label: "QK Portal"
+        label: "OWNA Portal & App"
         name: "qkPortal"
         fields:
           - {name: template, label: Template, widget: hidden, default: 'QKPortalPage'}

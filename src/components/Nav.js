@@ -82,8 +82,8 @@ export default class Nav extends Component {
               </div>
             })}
 
-            <div className="Nav--Container--Sep" />
-            <NavLink
+            {/* <div className="Nav--Container--Sep" /> */}
+            {/* <NavLink
               href="https://www.qkenhanced.com.au/webui/Account/Embeddable/?databaseId=5583"
               target="_blank"
               rel="nofollow"
@@ -91,7 +91,7 @@ export default class Nav extends Component {
             >
               <User />
               My Family Lounge
-            </NavLink>
+            </NavLink> */}
             <Link
               className="Button hasShadowHover"
               to="/enrolments/enrolling-great-start-early-learing-centre/"

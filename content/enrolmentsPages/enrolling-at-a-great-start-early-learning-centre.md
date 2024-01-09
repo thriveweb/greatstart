@@ -31,7 +31,6 @@ breakoutBox:
 enrolmentsSection2:
   steps:
     - content: "If you have not undertaken a recent centre tour, please contact us\_to arrange a suitable time to show you why attending our early learning centre\_is the best choice for your child’s early education and care. Please contact us and we will book your private tour. You can we see first-hand why we are rated \"Exceeding\" National Quality Standards."
-      # iframeSource: 'https://www.qkenhanced.com.au/Account/Embeddable/?databaseId=5583'
       iframeSource: ''
       title: Undertaking a Centre Tour
     - content: >-
@@ -80,9 +79,7 @@ enrolmentsSection2:
 
         We will contact you to arrange suitable times for you and your child to
         undertake orientation at the early learning centre.
-      title: >-
-        Enrolling at the Our Early Learning Centre (Steps Once Been Offered a
-        Place)
+      title: Enrolling at Our Early Learning Centre (Steps Once Been Offered a Place)
     - content: >-
         Before commencing at the service, we will coordinate three 1 hour
         orientation sessions will need to be completed by your child. The

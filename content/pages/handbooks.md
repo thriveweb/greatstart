@@ -51,9 +51,9 @@ downloadableForms:
     title: Parent Participation Feedback and Comments (PDF)
   - file: /images/uploads/owna_digital_greatstart_handbook_eastmalvern_01-24.pdf
     title: Greatstart handbook - Eastmalvern (PDF)
-  - file: /images/uploads/digital_greatstart_handbook_mildura.pdf
+  - file: /images/uploads/owna_digital_greatstart_handbook_milduraelc_01-24.pdf
     title: Greatstart handbook - Mildura (PDF)
-  - file: /images/uploads/greatstart_handbook_milduracentral.pdf
+  - file: /images/uploads/owna_greatstart_handbook_milduracentral_01-24.pdf
     title: Greatstart handbook - Milduracentral (PDF)
   - file: /images/uploads/7-–-complaints-grievance-policy_9-23_pdf.pdf
     title: Complaint and Grievance Policy (PDF)

@@ -49,7 +49,7 @@ downloadableForms:
     title: Parent Concern and Complaint (PDF)
   - file: /images/uploads/opr016~2.pdf
     title: Parent Participation Feedback and Comments (PDF)
-  - file: /images/uploads/digital_greatstart_handbook_eastmalvern.pdf
+  - file: /images/uploads/owna_digital_greatstart_handbook_eastmalvern_01-24.pdf
     title: Greatstart handbook - Eastmalvern (PDF)
   - file: /images/uploads/digital_greatstart_handbook_mildura.pdf
     title: Greatstart handbook - Mildura (PDF)

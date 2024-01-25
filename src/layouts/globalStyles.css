@@ -51,7 +51,7 @@ a {
   text-decoration: none;
 }
 
-main a {
+.EnrolmentsPage a {
   color: #f16668 !important;
   text-decoration: underline !important;
 }

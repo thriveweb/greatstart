@@ -3,23 +3,21 @@ template: Handbooks
 slug: parents/centre-forms-and-handbooks
 title: 'Key Policies, Centre Forms and Handbooks'
 downloadableForms:
-  - file: /images/uploads/p001-centre-policy-handbook_oct-2023.5_pdf.pdf
+  - file: /images/uploads/p001-centre-policy-handbook_dec-2023_pdf.pdf
     title: Service Policy Handbook
   - file: ''
     title: >-
       Enrolment Policy and Priority of Access Policy - please see Centre Policy
       Handbook
-  - file: /images/uploads/31-illness-policy_3-0-7-2023_pdf.pdf
-    title: Illness Policy
-  - file: /images/uploads/ascia_action_plan_allergic_reactions_green_2021_web.pdf
+  - file: ''
     title: Action Plan Allergic Reactions (PDF)
   - file: /images/uploads/allergy_management-risk-communication-plan_08.18.pdf
     title: Allergy Management Risk Communication Plan (Service PDF)
   - file: /images/uploads/anaphylaxis-_management-risk-communication-plan_08.18.pdf
     title: Anaphylaxis - Management Risk Communication Plan (Service PDF)
-  - file: /images/uploads/ascia_action_plan_anaphylaxis_red_epipen_2021_web.pdf
+  - file: ''
     title: Anaphylaxis - Action Plan EpiPen (PDF)
-  - file: /images/uploads/ascia_action_plan_anaphylaxis_red_anapen_2022.pdf
+  - file: ''
     title: Anaphylaxis - Action Plan Epinephrine Autoinjector - AnaPen (PDF)
   - file: >-
       /images/uploads/anaphylaxis_ascia-hp-anaphylaxis-checklist_for-doctor_0818.pdf
@@ -30,7 +28,7 @@ downloadableForms:
   - file: /images/uploads/anaphylaxis_risk_minimisation_cec_october_2021.pdf
     title: Anaphylaxis - Risk Minimisation Strategies Table (PDF)
   - file: >-
-      /images/uploads/asthma-care-plan_aacped2020a4-care-plan-for-schools_v05-2022.pdf
+      /images/uploads/aa2023_asthma-action-plan-a4_v19_colour_editable_10-2023.pdf
     title: Asthma - Management & Care Plan (PDF)
   - file: >-
       /images/uploads/asthma_risk-minimisation-and-comminication-plan_gselc_8.18.pdf
@@ -51,11 +49,11 @@ downloadableForms:
     title: Parent Concern and Complaint (PDF)
   - file: /images/uploads/opr016~2.pdf
     title: Parent Participation Feedback and Comments (PDF)
-  - file: /images/uploads/digital_greatstart_handbook_eastmalvern.pdf
+  - file: /images/uploads/owna_digital_greatstart_handbook_eastmalvern_01-24.pdf
     title: Greatstart handbook - Eastmalvern (PDF)
-  - file: /images/uploads/digital_greatstart_handbook_mildura.pdf
+  - file: /images/uploads/owna_digital_greatstart_handbook_milduraelc_01-24.pdf
     title: Greatstart handbook - Mildura (PDF)
-  - file: /images/uploads/greatstart_handbook_milduracentral.pdf
+  - file: /images/uploads/owna_greatstart_handbook_milduracentral_01-24.pdf
     title: Greatstart handbook - Milduracentral (PDF)
   - file: /images/uploads/7-–-complaints-grievance-policy_9-23_pdf.pdf
     title: Complaint and Grievance Policy (PDF)

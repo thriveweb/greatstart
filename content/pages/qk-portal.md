@@ -1,28 +1,29 @@
 ---
 template: QKPortalPage
 slug: learning/qk-curriculum-portal
-title: QK Journeys Curriculum Portal
-image: /images/uploads/portal-image.png
-boxTitle: QK Journeys Curriculum Portal
+title: OWNA Portal & App
+image: /images/uploads/owna-parent-features-graphic.png
+boxTitle: OWNA Portal & App
 boxContent: >-
-  We use QK Journeys Curriculum Portal to create and share learning with
-  parents. QK Journeys is accessed via the My Family Lounge account which is
-  created upon enrolment of your child.
+  We use OWNA Portal and App to create and share learning with parents.
 
 
-  QK Journeys allows educators to plan, set goals, prepare learning
-  documentation and create your child’s learning portfolio. The My Family Lounge
-  App and website allows parents to feel more involved in their child’s day by
-  providing daily information on their learning and experiences.
+  OWNA allows educators to plan, set goals, prepare learning documentation and
+  create your child’s learning portfolio. The App and website allows parents to
+  feel more involved in their child’s day by providing daily information on
+  their learning and experiences.
 features:
   featuresItem:
     - description: |-
         ##### Child Learning Portfolio
         You can view your child’s portfolio online at a convenient time.
       icon: /images/uploads/file.svg
-    - description: |-
-        ##### Child Image Gallery
-        See photos of your child in the image gallery.
+    - description: >-
+        ##### Educational Plan
+
+
+        See can view the Education Plan for the learning experiences plans for
+        the day and week.
       icon: /images/uploads/image.svg
     - description: >-
         ##### View Daily Journals
@@ -46,17 +47,19 @@ features:
         against the Early Years Learning Framework Outcomes.
       icon: /images/uploads/clipboard.svg
     - description: >-
-        ##### Kindergarten Transition Statements
+        ##### Daily Wellbeing Information
 
-        Your child’s kindergarten transition statement is prepared using QK
-        Journeys allowing you to contribute to the statement and also view
-        information prepared to assist your child transition to school smoothly.
+
+        Your child’s daily wellbeing informaiton is recorded and published on
+        the App for you to view. Information is recorded when your child nappy
+        is changed, sleeping and has a meal. This information help you plan you
+        home routine.
       icon: /images/uploads/scroll.svg
-  title: 'QK Journeys has the following features:'
+  title: 'OWNA has the following features:'
 meta:
   description: >-
-    QK Journeys allows educators to plan, set goals, prepare learning
-    documentation and create your child’s learning portfolio.
-  title: QK Journeys Curriculum Portal | Great Start ELC
+    OWNA allows educators to plan, set goals, prepare learning documentation and
+    create your child’s learning portfolio.
+  title: OWNA Portal & App | Great Start ELC
 ---
 

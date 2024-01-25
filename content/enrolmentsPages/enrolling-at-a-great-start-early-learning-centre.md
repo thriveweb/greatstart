@@ -10,90 +10,95 @@ enrolmentsSection1:
     curriculum and learning programs and see our environment first hand.
 breakoutBox:
   content: >-
-    In order to enrol your child in a Great Start Early Learning Centre, you
-    will need to register with My Family Lounge, a parent portal providing
-    access for parents to view published observations, photos and stories as
-    well as manage their waitlist and enrolments. When a vacancy arises, you
+    To add your children's name to waitlist and enrol your child in a Great
+    Start Early Learning Centre, you will need to be provided access to OWNA
+    parent portal and app.  Once provided links to forms and access you will be
+    able to complete waitlist forms, manage enrolment forms, view educational
+    plans, learning documentation, photos and stories. 
+
+
+    After you have completed the online waitlist form and a vacancy arises, you
     will be contacted by the Centre Director with an offer of placement. When an
     offer for placement is made to you, please accept the enrolment and complete
-    the online enrolment form and direct debit authorisation form.
+    the online enrolment form, direct debit authorisation form and Complying
+    Written Arrangement (CWA).
 
 
     Note: Before applying for a placement at the centre, it is important that
-    you have read and agree to abide by the Enrolment [Terms and
-    Conditions](/images/uploads/terms-conditions.pdf), Centre Policies and
-    Procedures.
+    you have read and agree to abide by the Enrolment Terms and Conditions,
+    Centre Policies and Procedures.
   title: How to enrol your child in a Great Start Learning Centre
 enrolmentsSection2:
   steps:
+    - content: "If you have not undertaken a recent centre tour, please contact us\_to arrange a suitable time to show you why attending our early learning centre\_is the best choice for your child’s early education and care. Please contact us and we will book your private tour. You can we see first-hand why we are rated \"Exceeding\" National Quality Standards."
+      iframeSource: ''
+      title: Undertaking a Centre Tour
     - content: >-
-        For NEW families to the Centre who have an EXISTING My Family Lounge
-        account (from the Great Start Early Learning Centre or another
-        organisation), skip the registration process and go to the next step. 
+        After you have completed a centre tour, please complete the online
+        Waitlist Form for each child you are seeking to attend the service. 
 
 
-        For NEW families to this centre who have not used My Family Lounge and
-        therefore do not have an existing account, Click on the REGISTER button
-        on the right. You will be taken through to a registration process to
-        create your My Family Lounge account.
+        On completion of the tour, the service will email you an online waitlist
+        form for you to complete. The waitlist email will also provide other
+        information such as the fees, our service offering, information about
+        our Approved Kindergarten Program, etc.
 
 
-        The email address you enter will be the user name and also the email
-        address from which you receive correspondence going forward. 
-
-
-        During the registration process, you will be sent an email from My
-        Family Lounge. Once you receive this email, click the ‘Complete
-        Registration’ button to enter a password and also review and agree to
-        the terms and conditions of enrolment. On completion of My Family Lounge
-        registration, enter QK Enrol to add your contact information.
-      iframeSource: 'https://www.qkenhanced.com.au/Account/Embeddable/?databaseId=5583'
-      title: Register For My Family Lounge
-    - content: >-
-        If there are no vacancies at the centre, please complete the waitlisting
-        form using the QK Enrol portal. We regularly review the waitlist and we
-        will contact you if a place becomes available.
-
-
-        In the My Family Lounge, enter QK Enrol, press ‘Add Child’ under the
-        ‘Child’ section. Search and select our centre. Add in your child details
-        and answer the waitlist questions. Press Save.
+        We regularly review the waitlist and we will contact you when a place
+        becomes available.
       title: Add Your Child To The Waitlist
     - content: >-
-        Enter QK Enrol in the My Family Lounge. Under Booking Requests, click
-        ‘New Request’ and the ‘Add Waitlist Details’ screen will appear. Follows
-        steps and press save to add child’s name to centre waitlist. The centre
-        will be in contact once a position is available.
-      title: Add Your Booking Request To The Waitlist
-    - content: >-
-        Once you are offered a place at the centre via QK Enrol, you will
-        complete an Enrolment Form and Complying Written Arrangement (CWA) for
-        each child. In the Complying Written Arrangement you will need to elect
-        the session duration most appropriate for your family. We will contact
-        you to arrange suitable times for you and your child to undertake
-        orientation at the centre.
+        Once you are offered a place, you will complete an Enrolment Form,
+        Direct Debit Authorisation Form and Complying Written Arrangement (CWA)
+        for each child been offered a place at our early learning centre. 
 
 
-        To finalise the enrolment an initial fee must be paid. The initial fee
-        is calculated as the greater of amounts: $100 or two weeks fees. Your
-        centre director will advise the initial fee amount. On your child’s
-        commencement, the initial fee amount will be credited to your account
-        and offset against the amount due for the two weeks fees due in advance.
-        Please note, if your child does not commence as booked, the initial fee
-        is non-refundable.
+        We will issue an Enrolment email to you once we have discussed and
+        offered your family a place at the service.
+
+
+        The CWA will be completed as part of the enrolment process.  In the
+        Complying Written Arrangement you will need to elect the session
+        duration most appropriate for your family. More information will be
+        provided when enrolling.
+
+
+        To finalise the enrolment an initial enrolment booking fee must be paid.
+        The initial fee is calculated as the greater of amounts: $100 or two
+        weeks fees. Your centre director will advise the initial fee amount. On
+        your child’s commencement, the initial fee amount will be credited to
+        your account and offset against the amount due for the two weeks fees
+        due in advance. Please note, if your child does not commence as booked,
+        the initial fee is non-refundable.
 
 
         We’ve made payment easy for you and have direct debit implemented via
         bank account or credit card on a weekly basis. A direct debit authority
-        form is required to be completed and signed upon enrolment. Please
-        complete a new form if any of your information changes.
-      title: Enrolling - Accepting Offer
+        form is required to be completed and signed upon enrolment.
+
+
+        We will contact you to arrange suitable times for you and your child to
+        undertake orientation at the early learning centre.
+      title: Enrolling at Our Early Learning Centre (Steps Once Been Offered a Place)
+    - content: >-
+        Before commencing at the service, we will coordinate three 1 hour
+        orientation sessions will need to be completed by your child. The
+        orientation sessions are short sessions to allow your child to become
+        familiar with the service environment and educators. The orientation
+        sessions allow parents/guardians to ask any questions about the
+        routines, care arrangements and educational program.
+
+
+        During orientation session times you will need to remain present in the
+        service..
+      title: Scheduling Orientation Sessions
 enrolBanner:
-  buttonLinkTo: 'https://www.qkenhanced.com.au/webui/Account/Embeddable/?databaseId=5583'
-  buttonTitle: Visit Site
-  title: Enrol Through My Family Lounge
+  buttonLinkTo: ''
+  buttonTitle: ''
+  title: ''
 enrolmentsSection3: >-
-  ###### The information you need to have available for enrolment form includes:
+  ###### When it is time to complete enrolment forms, you will need to have the
+  following information available for enrolment form:
 
 
   * Customer Reference Number (CRN) for your child
@@ -101,13 +106,13 @@ enrolmentsSection3: >-
   * CRN for parents
 
   * Contact details for emergency contacts and adults who will also be
-  collecting children from centre (Names, Address, and Telephone numbers).
-  Please note you are required to have a minimum of two people as authorised
-  nominees
+  collecting children from centre (Names, Address, and Telephone numbers, Email
+  Address, Copy of IDs). Please note you are required to have a minimum of two
+  people as authorised nominees
 
-  * Employer’s name, address and telephone number (both parents)
+  * Employer’s name, address, email address and telephone number (both parents)
 
-  * Doctors name, address and telephone number
+  * Doctor & Dentist: name, address and telephone number
 
   * Medicare Details
 
@@ -121,9 +126,10 @@ enrolmentsSection3: >-
 accordion:
   - content: >-
       If court order, parent plans or orders apply, a copy must be provided to
-      the centre on enrolment and uploaded in QK Enrol. Any changes to these
-      orders must be provided to the centre. Unless a custody and contact order
-      applies, both parents are deemed to be authorised to collect their child.
+      the centre on enrolment and uploaded as part of the enrolment form. Any
+      changes to these orders must be provided to the centre. Unless a custody
+      and contact order apply, both parents are deemed to be authorised to
+      collect their child.
     title: 'Court Orders, Parent Plans and Orders'
   - content: >-
       If you child has a Medical Condition or Illness (for example Anaphylaxis,

@@ -22,31 +22,29 @@ accordionSection:
           embrace the Victorian and National Early Years Learning Frameworks.
         title: What is your centre’s curriculum based on?
       - content: >-
-          Prior to using the app, you will need to complete the registration
-          process for your My Family Lounge account. The free app is available
-          for both Android and Apple devices. Simply go to the Google Play or
-          App store and search 'My Family Lounge'.
-        title: How do I download the My Family Lounge App?
+          The free app is available for both Android and Apple devices. Simply
+          go to the Google Play or App store and search 'OWNA'.
+        title: How do I download the OWNA Portal and App?
     title: About us
   - accordion:
       - content: >-
-          Yes, we have a funded four-year-old kindergarten program and employ a
-          kindergarten teacher who holds a Bachelor of Education. Our
+          Yes, we have a funded three and four-year-old kindergarten program and
+          employ a kindergarten teachers who holds a Bachelor of Education. Our
           Kindergarten programs are the same as at council run kindergartens and
-          private schools. The difference is we operate from 7am to 6pm Monday
+          private schools. The difference is we operate extended hours, Monday
           to Friday and are open 52 weeks a year and open all school holidays;
           catering to all family and work situations.
         title: >-
-          Do you have a funded four-year-old kindergarten program at your
-          centres with a qualified Kindergarten Teacher?
+          Do you have a funded three and four-year-old kindergarten program at
+          your centres with a qualified Kindergarten Teachers?
       - content: "The ratios of educators to children are regulated by the Victorian Government. We always ensure these ratios are met or exceeded over the service as follows: .\L\n\n0-3 year old children  - 1 educator : 4 children.\n\n\L3-5 year old children - 1 educator : 11 children."
         title: What are the staff to child ratios?
       - content: >-
           All educators require a minimum of Certificate III in Children’s
-          Services. Each room has a Leading Educator who holds a Diploma in
-          Children’s Services or higher. All educators have successfully gained
-          a Working with Children’s Check and all hold formal certification in
-          First Aid and Asthma & Anaphylaxis.
+          Services. Each room has a Leading Educator who typically holds a
+          Diploma in Children’s Services or higher. All educators have
+          successfully gained a Working with Children’s Check and all hold
+          formal certification in First Aid and Asthma & Anaphylaxis.
 
 
           Please see further information on our commitment to Child Safe
@@ -73,8 +71,8 @@ accordionSection:
           and add your last name. Once your child has been born please be in
           touch with us to update their date of birth and first name.
         title: Can I join the waitlist if my child has not been born yet?
-      - content: "Please see the links below to access the Help Guide for the My Family Lounge and the self-help videos so you feel confident using the parent portal to its full potential.\_My Family Portal Help Guide: [myfamilylounge.com.au/My-Family-Lounge/help-guide ](https://myfamilylounge.com.au/My-Family-Lounge/help-guide)\n\nFeel free to watch the self-help videos on the following topics.\_\_ \_[myfamilylounge.com.au/My-Family-Lounge/how-to-videos](https://myfamilylounge.com.au/My-Family-Lounge/how-to-videos) \n\n* How to Register for My Family Lounge\n* How to Create Your First Waitlist Request\n* How to Accept an Offer & Complete the Enrolment Form\n* How to Request a Change to an Existing Booking\n* How to Reset Your Password\n* How to Change Your Email Address for Your MFL Account"
-        title: Do you have a Help Guide for My Family Lounge – QKeYLM and QK Enrol?
+      - content: "Please see the links below to access the Help Guide for the OWNA and the self-help videos so you feel confident using the parent portal and App to its full potential.\_See OWNA online help guide: https://ownaportal.tawk.help/   \n\nFeel free to watch the self-help videos on the following topics: https://www.youtube.com/@OWNAapp/videos."
+        title: Do you have a Help Guide for OWNA?
     title: Enrolments
   - accordion:
       - content: >-
@@ -189,9 +187,8 @@ accordionSection:
           their new environments.
         title: When does my Child Transition Between Classrooms?
       - content: >-
-          Please refer to the Enrolment [Terms and
-          Conditions](/images/uploads/terms-conditions.pdf) , Complying Written
-          Agreement document and  [Enrolment Policy and Priority of Access
+          Please refer to the Enrolment Terms and Conditions, Complying Written
+          Arrangement (CWA) and [Enrolment Policy and Priority of Access
           Policy](/images/uploads/1-enrolment-policy-and-priority-of-access-policy_06-2020.pdf).
         title: What are the Enrolment Terms and Conditions?
     title: Parent Info

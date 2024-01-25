@@ -51,6 +51,11 @@ a {
   text-decoration: none;
 }
 
+main a {
+  color: #f16668 !important;
+  text-decoration: underline !important;
+}
+
 strong {
   font-weight: 700;
 }

@@ -100,6 +100,9 @@ infoSection:
     to view and add posts, see your child’s daily stats and so much more.
   infoListing: []
 meta:
+  description: >-
+    We use OWNA Portal and App to create and share learning and information with
+    parents.
   title: OWNA App & Web Portal Guides | Great Start ELC
 ---
 # OWNA Childcare Management Software: Enhancing Communication with Parents

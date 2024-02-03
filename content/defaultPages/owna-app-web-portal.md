@@ -11,11 +11,15 @@ accordion:
       ## Home Page
 
       Once you have logged in you will automatically be on the home page.
+
+      ![](/images/uploads/owna-home-page.webp)
     title: Home Page
   - content: |-
       ## Daily Information
 
-      Includes menu, meal portions, rest & sleep updates and sun protection.
+      Includes menu, meal portions, rest & sleep
+
+      ![](/images/uploads/owna-daily-information.webp)
     title: Daily Information
   - content: >-
       ## Toileting Glossary
@@ -23,11 +27,16 @@ accordion:
 
       (Please check with your Centre if this feature is available for your
       child's age group).
+
+
+      ![](/images/uploads/owna-toileting-glossary.webp)
     title: Toileting Glossary
   - content: |-
       ## Records & Reports
 
       Medical records, attendance history and CWA form.
+
+      ![](/images/uploads/owna-reports.webp)
     title: Records & Reports
   - content: >-
       ## Create Your Own Post
@@ -35,6 +44,9 @@ accordion:
 
       You can also book a casual day, fill in handover information and let your
       centre know if your child is not attending.
+
+
+      ![](/images/uploads/owna-create-a-post.webp)
     title: Create Your Own Post
   - content: >-
       ## Change Your Details
@@ -42,17 +54,28 @@ accordion:
 
       Reset your pin, password and update your details here. Please ensure you
       update your details on your Children enrolment forms also.
+
+
+      ![](/images/uploads/owna-change-your-details.webp)
     title: Change Your Details
   - content: |-
       ## Documents & Policies
 
       Access fact sheets, forms and Centre information
+
+      ![](/images/uploads/owna-documents-policies.webp)
     title: Documents & Policies
-  - content: "## Sign the Complying Written\r Arrangement (CWA) Form"
+  - content: "## Sign the Complying Written\r Arrangement (CWA) Form\n\n![](/images/uploads/owa-signing-cwa.webp)"
     title: Sign the Complying Written Arrangement (CWA) Form
-  - content: '## Sign Direct Debit Request (DDR) Form'
+  - content: |-
+      ## Sign Direct Debit Request (DDR) Form
+
+      ![](/images/uploads/owna-sign-ddr.webp)
     title: Sign Direct Debit Request (DDR) Form
-  - content: '## Statements & Invoices'
+  - content: |-
+      ## Statements & Invoices
+
+      ![](/images/uploads/owna-statments.webp)
     title: Statements & Invoices
 infoSection:
   description: >-

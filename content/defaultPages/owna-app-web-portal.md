@@ -5,21 +5,23 @@ className: ''
 title: OWNA App & Web Portal
 downloadBanner:
   title: Parent Walkthough
-downloadableForms: []
+downloadableForms:
+  - file: /images/uploads/owna_parent_cheatsheet_28-01-2024.pdf
+    title: 'Parent’s Cheat Sheets - All in one '
 accordion:
   - content: |-
       ## Home Page
 
       Once you have logged in you will automatically be on the home page.
 
-      ![](/images/uploads/owna-home-page.webp)
+      ![null](/images/uploads/owna-home-page.webp)
     title: Home Page
   - content: |-
       ## Daily Information
 
       Includes menu, meal portions, rest & sleep
 
-      ![](/images/uploads/owna-daily-information.webp)
+      ![null](/images/uploads/owna-daily-information.webp)
     title: Daily Information
   - content: >-
       ## Toileting Glossary
@@ -29,14 +31,14 @@ accordion:
       child's age group).
 
 
-      ![](/images/uploads/owna-toileting-glossary.webp)
+      ![null](/images/uploads/owna-toileting-glossary.webp)
     title: Toileting Glossary
   - content: |-
       ## Records & Reports
 
       Medical records, attendance history and CWA form.
 
-      ![](/images/uploads/owna-reports.webp)
+      ![null](/images/uploads/owna-reports.webp)
     title: Records & Reports
   - content: >-
       ## Create Your Own Post
@@ -46,7 +48,7 @@ accordion:
       centre know if your child is not attending.
 
 
-      ![](/images/uploads/owna-create-a-post.webp)
+      ![null](/images/uploads/owna-create-a-post.webp)
     title: Create Your Own Post
   - content: >-
       ## Change Your Details
@@ -56,26 +58,31 @@ accordion:
       update your details on your Children enrolment forms also.
 
 
-      ![](/images/uploads/owna-change-your-details.webp)
+      ![null](/images/uploads/owna-change-your-details.webp)
     title: Change Your Details
   - content: |-
       ## Documents & Policies
 
       Access fact sheets, forms and Centre information
 
-      ![](/images/uploads/owna-documents-policies.webp)
+      ![null](/images/uploads/owna-documents-policies.webp)
     title: Documents & Policies
-  - content: "## Sign the Complying Written\r Arrangement (CWA) Form\n\n![](/images/uploads/owa-signing-cwa.webp)"
+  - content: |-
+      ## Sign the Complying Written
+
+       Arrangement (CWA) Form
+
+      ![null](/images/uploads/owa-signing-cwa.webp)
     title: Sign the Complying Written Arrangement (CWA) Form
   - content: |-
       ## Sign Direct Debit Request (DDR) Form
 
-      ![](/images/uploads/owna-sign-ddr.webp)
+      ![null](/images/uploads/owna-sign-ddr.webp)
     title: Sign Direct Debit Request (DDR) Form
   - content: |-
       ## Statements & Invoices
 
-      ![](/images/uploads/owna-statments.webp)
+      ![null](/images/uploads/owna-statments.webp)
     title: Statements & Invoices
 infoSection:
   description: >-

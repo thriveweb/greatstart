@@ -4,6 +4,7 @@ slug: ''
 className: ''
 title: OWNA App & Web Portal
 downloadBanner:
+  preview: /images/uploads/image_parent-cheat-sheet.png
   title: OWNA App and Web Portal - Parent Cheat Sheets
 downloadableForms:
   - file: /images/uploads/owna_parent_cheatsheet_28-01-2024.pdf

@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: ''
 className: ''
-title: OWNA App & Web Portal - Parent Guides
+title: OWNA App & Web Portal - Guides
 downloadBanner:
   preview: /images/uploads/image_parent-cheat-sheet.png
   title: OWNA App and Web Portal - Parent Cheat Sheets

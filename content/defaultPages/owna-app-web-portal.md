@@ -20,6 +20,36 @@ accordion:
       ![null](/images/uploads/owna-home-page.webp)
     title: Home Page
   - content: |-
+      ## Documents & Policies
+
+      Access fact sheets, forms and Centre information
+
+      ![null](/images/uploads/owna-documents-policies.webp)
+    title: Documents & Policies
+  - content: |-
+      ## Sign the Complying Written
+
+       Arrangement (CWA) Form
+
+      ![null](/images/uploads/owa-signing-cwa.webp)
+    title: Sign the Complying Written Arrangement (CWA) Form
+  - content: |-
+      ## Sign Direct Debit Request (DDR) Form
+
+      ![null](/images/uploads/owna-sign-ddr.webp)
+    title: Sign Direct Debit Request (DDR) Form
+  - content: |-
+      ## Statements & Invoices
+
+      ![null](/images/uploads/owna-statments.webp)
+    title: Statements & Invoices
+  - content: "## How to complete a Once-off Payment Via the OWNA Parent App\n\n\r\n\n1. \U0001F4F1 Use the hamburger icon in the top left corner (3 horizontal lines) to open the menu\r\n2. Select Statements/Invoices\r\n3. Press Make one off Payment\r\n4. Fill in payment details, amount to pay, and transaction description\r\n5. Press Make Payment\n\n![](/images/uploads/owna_-complete-a-once-off-payment-on-app.jpg)"
+    title: How to complete a Once-off Payment Via the OWNA Parent App
+  - content: "## Uploading Child's Immunisation History Statement\n\n**Overview**\r\n\nParents are able to upload their child/rens Immunisation History directly on the app when they are completed. We recommend tracking your child immunisation due dates to avoid impacting your Child Care Subsidy entitlement. \r\n\nOnce uploaded, this will send the Centre an email advising you have updated. The will also automatically update the Immunisation Matrix for the Centre.\r\n\n**Upload**\r\n\n\U0001F4F1Open the menu (hamburger icon top left)\r\n\n1. Select a child\r\n2. Open the child menu (3 dot ellipsis button in the top right)\r\n3. Select Upload Immunisation Record\r\n4. Choose the Vaccination Period (select more than one if needed)\r\n5. Tap on the Camera Icon to take a photo of the Immunisation Record.\r\n6. Press the Arrow in the top right corner to upload\r\n\n![](/images/uploads/owna-immunisation-upload_02-02-2024.jpg)"
+    title: Uploading Child Immunisation History
+  - content: "## Viewing Child Documents Provided to Service\n\n**How to View What you have Uploaded)**\r\n\n\U0001F4F1Open the menu (hamburger icon top left)\r\n\n1. Select a child\r\n2. Open the child menu (3 dot ellipsis button in the top right)\r\n3. Select View Documents\r\n4. Select the Vaccination Record to Open and View\r\n\n![](/images/uploads/owna-immunisation-view_02-02-2024.jpg)"
+    title: Viewing Child Documents Provided to Service
+  - content: |-
       ## Daily Information
 
       Includes menu, meal portions, rest & sleep
@@ -63,36 +93,6 @@ accordion:
 
       ![null](/images/uploads/owna-change-your-details.webp)
     title: Change Your Details
-  - content: |-
-      ## Documents & Policies
-
-      Access fact sheets, forms and Centre information
-
-      ![null](/images/uploads/owna-documents-policies.webp)
-    title: Documents & Policies
-  - content: |-
-      ## Sign the Complying Written
-
-       Arrangement (CWA) Form
-
-      ![null](/images/uploads/owa-signing-cwa.webp)
-    title: Sign the Complying Written Arrangement (CWA) Form
-  - content: |-
-      ## Sign Direct Debit Request (DDR) Form
-
-      ![null](/images/uploads/owna-sign-ddr.webp)
-    title: Sign Direct Debit Request (DDR) Form
-  - content: |-
-      ## Statements & Invoices
-
-      ![null](/images/uploads/owna-statments.webp)
-    title: Statements & Invoices
-  - content: "## Uploading Child's Immunisation History Statement\n\n**Overview**\r\n\nParents are able to upload their child/rens Immunisation History directly on the app when they are completed. We recommend tracking your child immunisation due dates to avoid impacting your Child Care Subsidy entitlement. \r\n\nOnce uploaded, this will send the Centre an email advising you have updated. The will also automatically update the Immunisation Matrix for the Centre.\r\n\n**Upload**\r\n\n\U0001F4F1Open the menu (hamburger icon top left)\r\n\n1. Select a child\r\n2. Open the child menu (3 dot ellipsis button in the top right)\r\n3. Select Upload Immunisation Record\r\n4. Choose the Vaccination Period (select more than one if needed)\r\n5. Tap on the Camera Icon to take a photo of the Immunisation Record.\r\n6. Press the Arrow in the top right corner to upload\r\n\n![](/images/uploads/owna-immunisation-upload_02-02-2024.jpg)"
-    title: Uploading Child Immunisation History
-  - content: "## Viewing Child Documents Provided to Service\n\n**How to View What you have Uploaded)**\r\n\n\U0001F4F1Open the menu (hamburger icon top left)\r\n\n1. Select a child\r\n2. Open the child menu (3 dot ellipsis button in the top right)\r\n3. Select View Documents\r\n4. Select the Vaccination Record to Open and View\r\n\n![](/images/uploads/owna-immunisation-view_02-02-2024.jpg)"
-    title: Viewing Child Documents Provided to Service
-  - content: "## How to complete a Once-off Payment Via the OWNA Parent App\n\n\r\n\n1. \U0001F4F1 Use the hamburger icon in the top left corner (3 horizontal lines) to open the menu\r\n2. Select Statements/Invoices\r\n3. Press Make one off Payment\r\n4. Fill in payment details, amount to pay, and transaction description\r\n5. Press Make Payment\n\n![](/images/uploads/owna_-complete-a-once-off-payment-on-app.jpg)"
-    title: How to complete a Once-off Payment Via the OWNA Parent App
 infoSection:
   description: >-
     See how to use the OWNA App as a Parent to get the most out of it. Learn how

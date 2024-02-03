@@ -81,9 +81,6 @@ infoSection:
   description: >-
     See how to use the OWNA App as a Parent to get the most out of it. Learn how
     to view and add posts, see your child’s daily stats and so much more.
-
-
-    https://youtu.be/GvJmJV0a9zg
   infoListing: []
 ---
 # OWNA Childcare Management Software: Enhancing Communication with Parents

@@ -91,7 +91,8 @@ accordion:
     title: Uploading Child Immunisation History
   - content: "## Viewing Child Documents Provided to Service\n\n**How to View What you have Uploaded)**\r\n\n\U0001F4F1Open the menu (hamburger icon top left)\r\n\n1. Select a child\r\n2. Open the child menu (3 dot ellipsis button in the top right)\r\n3. Select View Documents\r\n4. Select the Vaccination Record to Open and View\r\n\n![](/images/uploads/owna-immunisation-view_02-02-2024.jpg)"
     title: Viewing Child Documents Provided to Service
-  - title: How to complete a Once-off Payment Via the OWNA Parent App
+  - content: "## How to complete a Once-off Payment Via the OWNA Parent App\n\n\r\n\n1. \U0001F4F1 Use the hamburger icon in the top left corner (3 horizontal lines) to open the menu\r\n2. Select Statements/Invoices\r\n3. Press Make one off Payment\r\n4. Fill in payment details, amount to pay, and transaction description\r\n5. Press Make Payment\n\n![](/images/uploads/owna_-complete-a-once-off-payment-on-app.jpg)"
+    title: How to complete a Once-off Payment Via the OWNA Parent App
 infoSection:
   description: >-
     See how to use the OWNA App as a Parent to get the most out of it. Learn how

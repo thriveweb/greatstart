@@ -5,6 +5,54 @@ className: ''
 title: OWNA App & Web Portal
 downloadBanner:
   title: ''
+accordion:
+  - content: |-
+      ## Home Page
+
+      Once you have logged in you will automatically be on the home page.
+    title: Home Page
+  - content: |-
+      ## Daily Information
+
+      Includes menu, meal portions, rest & sleep updates and sun protection.
+    title: Daily Information
+  - content: >-
+      ## Toileting Glossary
+
+
+      (Please check with your Centre if this feature is available for your
+      child's age group).
+    title: Toileting Glossary
+  - content: |-
+      ## Records & Reports
+
+      Medical records, attendance history and CWA form.
+    title: Records & Reports
+  - content: >-
+      ## Create Your Own Post
+
+
+      You can also book a casual day, fill in handover information and let your
+      centre know if your child is not attending.
+    title: Create Your Own Post
+  - content: >-
+      ## Change Your Details
+
+
+      Reset your pin, password and update your details here. Please ensure you
+      update your details on your Children enrolment forms also.
+    title: Change Your Details
+  - content: |-
+      ## Documents & Policies
+
+      Access fact sheets, forms and Centre information
+    title: Documents & Policies
+  - content: "## Sign the Complying Written\r Arrangement (CWA) Form"
+    title: Sign the Complying Written Arrangement (CWA) Form
+  - content: '## Sign Direct Debit Request (DDR) Form'
+    title: Sign Direct Debit Request (DDR) Form
+  - content: '## Statements & Invoices'
+    title: Statements & Invoices
 ---
 # OWNA Childcare Management Software: Enhancing Communication with Parents
 

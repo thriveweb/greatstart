@@ -68,7 +68,8 @@ class Form extends React.Component {
 
     return <label className="checkbox-container" key={value}>
       <input
-        className="EnquiryForm--Input"
+        // className="EnquiryForm--Input"
+        className='checkbox'
         type="radio"
         name={name}
         value={value}
@@ -76,7 +77,7 @@ class Form extends React.Component {
         onChange={this.props.handleChange}
       />
       {value}
-      <span className='checkbox'></span>
+      {/* <span className='checkbox'></span> */}
     </label>
   }
 

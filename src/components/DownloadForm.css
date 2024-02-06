@@ -136,8 +136,8 @@
 
 .checkbox-container .checkbox {
   appearance: none;
-  outline: 1px solid black;
-  outline-offset: 0.1em;
+  outline: 2px solid black;
+  outline-offset: -1px;
   border: none;
 }
 .checkbox-container .checkbox:checked {

@@ -5,9 +5,9 @@ exceedTextLong: >-
 exceedLogo: /images/uploads/high-quality-logo-new.png
 handbookImage: /images/uploads/handbook.jpg
 handbookDownload:
-  - file: /images/uploads/digital_greatstart_handbook_eastmalvern.pdf
+  - file: /images/uploads/owna_digital_greatstart_handbook_eastmalvern_01-24.pdf
     title: East Malvern
-  - file: /images/uploads/digital_greatstart_handbook_mildura.pdf
+  - file: /images/uploads/owna_digital_greatstart_handbook_milduraelc_01-24.pdf
     title: Mildura
-  - file: /images/uploads/greatstart_handbook_milduracentral.pdf
+  - file: /images/uploads/owna_greatstart_handbook_milduracentral_01-24.pdf
     title: Mildura Central

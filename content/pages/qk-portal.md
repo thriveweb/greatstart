@@ -12,6 +12,10 @@ boxContent: >-
   create your child’s learning portfolio. The App and website allows parents to
   feel more involved in their child’s day by providing daily information on
   their learning and experiences.
+
+
+  For more information on how to use OWNA please refer to our Parents section of
+  our website.
 features:
   featuresItem:
     - description: |-

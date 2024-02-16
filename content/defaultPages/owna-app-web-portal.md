@@ -1,6 +1,6 @@
 ---
 template: DefaultPage
-slug: ''
+slug: parents/owna-app-web-portal
 className: ''
 title: OWNA App & Web Portal - Guides
 downloadBanner:

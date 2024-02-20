@@ -53,9 +53,12 @@ class Form extends React.Component {
     const { fields } = this.props
     const { centre } = fields
 
+    console.log("******* fields",fields)
+
     return <label className="checkbox-container" key={value}>
       <input
-        className="EnquiryForm--Input"
+        // className="EnquiryForm--Input"
+        className='checkbox'
         type="radio"
         name={name}
         value={value}
@@ -63,7 +66,7 @@ class Form extends React.Component {
         onChange={this.props.handleChange}
       />
       {value}
-      <span className='checkbox'></span>
+      {/* <span className='checkbox'></span> */}
     </label>
   }
 
@@ -246,8 +249,15 @@ class Form extends React.Component {
           disabled={this.state.disabled}
         />
         <div className='privacy-check'>
-          <input className="EnquiryForm--Input" type="checkbox" name="privacy" required />
-          <span className='checkbox'></span>
+          <input 
+            className="checkbox" 
+            type="checkbox" 
+            name="privacy" 
+            value="privacy" 
+            checked={this.props.fields.privacy}
+            onChange={this.props.handleChange}
+            required 
+          />
           <p>Yes, I have read and agree to the Great Start <a href="/parents/our-policies/">Privacy Policy</a></p>
         </div>
       </form>

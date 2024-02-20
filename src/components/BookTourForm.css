@@ -32,6 +32,17 @@
   margin-left: 2rem;
 }
 
+.privacy-check .checkbox {
+  appearance: none;
+  outline: 2px solid black;
+  outline-offset: -1px;
+  border: none;
+}
+.privacy-check .checkbox:checked {
+  display: inline-block;
+  background-color: #000;
+}
+
 @media only screen and (max-width: 1150px) {
   .BookTour .label-text .EnquiryForm--Input {
     flex: 0 0 100%;

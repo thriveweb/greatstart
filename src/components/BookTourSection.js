@@ -17,7 +17,7 @@ class BookingSection extends Component {
 	        return {
 	          fields: {
 	            ...prevState.fields,
-	            [e.target.name]: e.target.value
+	            [e.target.name]: e.target.type === "checkbox" ? e.target.checked : e.target.value
 	          }
 	        }
       	})

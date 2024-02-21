@@ -9,8 +9,7 @@ meta:
     first hand.
   title: Book a Tour of Our Centres | Great Start ELC
 ---
-
-![](/images/uploads/action-child-children.jpg)
+![null](/images/uploads/action-child-children.jpg)
 
 ##### It’s hard to know what to expect when you’re first enrolling in an early learning or childcare centre. The best way to get a feel for the centre is to book a centre tour.
 
@@ -18,4 +17,4 @@ We would love to find your child a place at our centre. Please contact the Centr
 
 Once you have completed your tour, your Centre Director will provide you with an enrolment pack which includes everything you need to know.
 
-##### Fill out the form below now to book a tour to view one of our beautiful early learning centres.
+##### Fill out the form below to express interest in our early learning centres and to book a tour to view one of our beautiful early learning centres.

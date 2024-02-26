@@ -13,54 +13,36 @@ downloadableForms:
       /images/uploads/parents-cheat-sheet-reading-your-invoice-transactional-1-.pdf
     title: Parent Cheat Sheet - How to Read Your Invoice
 accordion:
-  - content: |-
-      ## Home Page
+  - content: >-
+      Home PageOnce you have logged in you will automatically be on the home
+      page.
 
-      Once you have logged in you will automatically be on the home page.
 
       ![null](/images/uploads/owna-home-page.webp)
     title: Home Page
   - content: |-
-      ## Documents & Policies
-
       Access fact sheets, forms and Centre information
 
       ![null](/images/uploads/owna-documents-policies.webp)
     title: Documents & Policies
-  - content: |-
-      ## Sign the Complying Written
-
-       Arrangement (CWA) Form
-
-      ![null](/images/uploads/owa-signing-cwa.webp)
+  - content: '![null](/images/uploads/owa-signing-cwa.webp)'
     title: Sign the Complying Written Arrangement (CWA) Form
-  - content: |-
-      ## Sign Direct Debit Request (DDR) Form
-
-      ![null](/images/uploads/owna-sign-ddr.webp)
+  - content: '![null](/images/uploads/owna-sign-ddr.webp)'
     title: Sign Direct Debit Request (DDR) Form
-  - content: |-
-      ## Statements & Invoices
-
-      ![null](/images/uploads/owna-statments.webp)
+  - content: '![null](/images/uploads/owna-statments.webp)'
     title: Statements & Invoices
-  - content: "## How to complete a Once-off Payment Via the OWNA Parent App\n\n1. \U0001F4F1 Use the hamburger icon in the top left corner (3 horizontal lines) to open the menu\n2. Select Statements/Invoices\n3. Press Make one off Payment\n4. Fill in payment details, amount to pay, and transaction description\n5. Press Make Payment\n\n![null](/images/uploads/owna_-complete-a-once-off-payment-on-app.jpg)"
+  - content: "1. \U0001F4F1 Use the hamburger icon in the top left corner (3 horizontal lines) to open the menu\n2. Select Statements/Invoices\n3. Press Make one off Payment\n4. Fill in payment details, amount to pay, and transaction description\n5. Press Make Payment\n\n![null](/images/uploads/owna_-complete-a-once-off-payment-on-app.jpg)"
     title: How to complete a Once-off Payment Via the OWNA Parent App
-  - content: "## Uploading Child's Immunisation History Statement\n\n**Overview**\n\nParents are able to upload their child/rens Immunisation History directly on the app when they are completed. We recommend tracking your child immunisation due dates to avoid impacting your Child Care Subsidy entitlement. \n\nOnce uploaded, this will send the Centre an email advising you have updated. The will also automatically update the Immunisation Matrix for the Centre.\n\n**Upload**\n\n\U0001F4F1Open the menu (hamburger icon top left)\n\n1. Select a child\n2. Open the child menu (3 dot ellipsis button in the top right)\n3. Select Upload Immunisation Record\n4. Choose the Vaccination Period (select more than one if needed)\n5. Tap on the Camera Icon to take a photo of the Immunisation Record.\n6. Press the Arrow in the top right corner to upload\n\n![null](/images/uploads/owna-immunisation-upload_02-02-2024.jpg)"
+  - content: "**Overview**\n\nParents are able to upload their child/rens Immunisation History directly on the app when they are completed. We recommend tracking your child immunisation due dates to avoid impacting your Child Care Subsidy entitlement. \n\nOnce uploaded, this will send the Centre an email advising you have updated. The will also automatically update the Immunisation Matrix for the Centre.\n\n**Upload**\n\n\U0001F4F1Open the menu (hamburger icon top left)\n\n1. Select a child\n2. Open the child menu (3 dot ellipsis button in the top right)\n3. Select Upload Immunisation Record\n4. Choose the Vaccination Period (select more than one if needed)\n5. Tap on the Camera Icon to take a photo of the Immunisation Record.\n6. Press the Arrow in the top right corner to upload\n\n![null](/images/uploads/owna-immunisation-upload_02-02-2024.jpg)"
     title: Uploading Child Immunisation History
-  - content: "## Viewing Child Documents Provided to Service\n\n**How to View What you have Uploaded)**\n\n\U0001F4F1Open the menu (hamburger icon top left)\n\n1. Select a child\n2. Open the child menu (3 dot ellipsis button in the top right)\n3. Select View Documents\n4. Select the Vaccination Record to Open and View\n\n![null](/images/uploads/owna-immunisation-view_02-02-2024.jpg)"
+  - content: "**How to View What you have Uploaded)**\n\n\U0001F4F1Open the menu (hamburger icon top left)\n\n1. Select a child\n2. Open the child menu (3 dot ellipsis button in the top right)\n3. Select View Documents\n4. Select the Vaccination Record to Open and View\n\n![null](/images/uploads/owna-immunisation-view_02-02-2024.jpg)"
     title: Viewing Child Documents Provided to Service
   - content: |-
-      ## Daily Information
-
       Includes menu, meal portions, rest & sleep
 
       ![null](/images/uploads/owna-daily-information.webp)
     title: Daily Information
   - content: >-
-      ## Toileting Glossary
-
-
       (Please check with your Centre if this feature is available for your
       child's age group).
 
@@ -68,16 +50,11 @@ accordion:
       ![null](/images/uploads/owna-toileting-glossary.webp)
     title: Toileting Glossary
   - content: |-
-      ## Records & Reports
-
       Medical records, attendance history and CWA form.
 
       ![null](/images/uploads/owna-reports.webp)
     title: Records & Reports
   - content: >-
-      ## Create Your Own Post
-
-
       You can also book a casual day, fill in handover information and let your
       centre know if your child is not attending.
 
@@ -85,9 +62,6 @@ accordion:
       ![null](/images/uploads/owna-create-a-post.webp)
     title: Create Your Own Post
   - content: >-
-      ## Change Your Details
-
-
       Reset your pin, password and update your details here. Please ensure you
       update your details on your Children enrolment forms also.
 

@@ -12,6 +12,8 @@ downloadableForms:
   - file: >-
       /images/uploads/parents-cheat-sheet-reading-your-invoice-transactional-1-.pdf
     title: Parent Cheat Sheet - How to Read Your Invoice
+  - file: /images/uploads/parent-sign-direct-debit-authority-ddr-form.pdf
+    title: How to Sign Direct Debit Request (DDR) Form
 accordion:
   - content: >-
       Home PageOnce you have logged in you will automatically be on the home

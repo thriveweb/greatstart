@@ -14,6 +14,8 @@ downloadableForms:
     title: Parent Cheat Sheet - How to Read Your Invoice
   - file: /images/uploads/parent-sign-direct-debit-authority-ddr-form.pdf
     title: How to Sign Direct Debit Request (DDR) Form
+  - file: /images/uploads/owna_gselc_parents_form-guide_29-02-2024_pdf.pdf
+    title: Parent Forms Guide
 accordion:
   - content: >-
       Home PageOnce you have logged in you will automatically be on the home

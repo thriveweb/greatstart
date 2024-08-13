@@ -3,7 +3,7 @@ template: Handbooks
 slug: parents/centre-forms-and-handbooks
 title: 'Key Policies, Centre Forms and Handbooks'
 downloadableForms:
-  - file: /images/uploads/p001-centre-policy-handbook_dec-2023_pdf.pdf
+  - file: /images/uploads/p001-centre-policy-handbook_july-2024.2_pdf.pdf
     title: Service Policy Handbook
   - file: /images/uploads/owna_parent_cheatsheet_28-01-2024.pdf
     title: OWNA - Parent Cheat Sheet & Guides - All in One

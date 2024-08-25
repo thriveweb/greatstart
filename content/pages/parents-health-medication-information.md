@@ -76,4 +76,4 @@ We may need to call an ambulance or doctor if urgent medical attention is requir
 
 All medical and ambulance costs are the parent’s responsibility. All illness at the centre is recorded on an Incident, Injury, Trauma, and Illness Record form.
 
-###### **You will find a table below detailing some common childhood illnesses and the exclusion periods recommended by the National Health and Medical Research Council that we follow. You can find the full publication this table is taken from in Staying Healthy in Childcare, 5th edition at [www.nhmrc.gov.au](https://www.nhmrc.gov.au).**
+###### **You will find a table below detailing some common childhood illnesses and the exclusion periods recommended by the National Health and Medical Research Council that we follow. You can find the full publication this table is taken from in Staying Healthy in Childcare, 6th edition at [www.nhmrc.gov.au](https://www.nhmrc.gov.au).**

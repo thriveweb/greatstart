@@ -13,7 +13,7 @@ table:
       cell2: Until all blisters have dried
     - cell1: Head lice
       cell2: Not excluded if effective treatment occurs before next day at the centre
-    - cell1: Influenza and influenza-like illnessess
+    - cell1: Influenza and influenza-like illnesses
       cell2: Until child is well
 lowerSection: >-
   # Medical Condition Management

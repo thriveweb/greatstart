@@ -82,4 +82,4 @@ meta:
 ---
 #### Here are some important downloads.
 
-#### We recommend going directly to the organisation website to ensure the latest version of external forms are obtained. For example: Asthma Austalia (https://asthma.org.au ) and  ASCIA for Allergy and Anaphylaxis (https://allergy.org.au )
+#### We recommend going directly to the organisation website to ensure the latest version of external forms are obtained. For example: Asthma Australia (https://asthma.org.au ) and  ASCIA for Allergy and Anaphylaxis (https://allergy.org.au )

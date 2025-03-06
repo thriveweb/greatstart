@@ -5,7 +5,7 @@ title: Mildura Early Learning Centre.
 logo: /images/uploads/mildura.svg
 centreDetails:
   email: mildura@mychildelc.com.au
-  facebook: 'https://www.facebook.com/mildura.centre'
+  facebook: 'https://www.facebook.com/milduraearlylearningcentre'
   location: 340-342 San Mateo Avenue Mildura VIC 3500
   mapIframe: >-
     <iframe

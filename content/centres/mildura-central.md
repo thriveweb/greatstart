@@ -5,7 +5,7 @@ title: Mildura Central Early Learning Centre
 logo: /images/uploads/mildura-central.svg
 centreDetails:
   email: milduracentral@mychildelc.com.au
-  facebook: ' https://www.facebook.com/milduracentralearlylearningcentre/'
+  facebook: 'https://www.facebook.com/milduracentralearlylearningcentre'
   location: 145-149 Lime Avenue Mildura VIC 3500
   mapIframe: >-
     <iframe

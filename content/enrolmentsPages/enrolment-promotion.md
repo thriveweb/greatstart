@@ -5,9 +5,8 @@ title: Enrolment Promotion
 featuredImage: /images/uploads/mildura.svg
 enrolmentsSection1:
   title: >-
-    ## We would love to find your child a place at our centre. A centre tour is
-    a great way for you and your child to meet the educators, understand our
-    curriculum and learning programs and see our environment first hand.
+    ## Enrol and start at Mildura Early Learning Centre by 2 May 2025 and get
+    20% of your first 4 weeks*
 breakoutBox:
   content: >-
     From time to time our services offer promotional campaigns that are relevant
@@ -15,7 +14,7 @@ breakoutBox:
     the terms and conditions of the promotional offer.
   title: Mildura Early Learning Early Centre
 enrolmentsSection3: >-
-  # Enrol and start at Mildura Early Learning Centre by 2 May 2025 and get 20%
+  ## Enrol and start at Mildura Early Learning Centre by 2 May 2025 and get 20%
   of your first 4 weeks*
 
 

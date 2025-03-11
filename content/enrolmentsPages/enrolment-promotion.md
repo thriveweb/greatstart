@@ -9,9 +9,9 @@ enrolmentsSection1:
     20% of your first 4 weeks*
 breakoutBox:
   content: >-
-    From time to time our services offer promotional campaigns that are relevant
-    for specific service. Please discuss with the Centre Director to provide you
-    the terms and conditions of the promotional offer.
+    From time to time our services offer promotional offers that are relevant
+    for a specific service. Please discuss with the Centre Director to provide
+    you the terms and conditions of the promotional offer.
   title: Mildura Early Learning Early Centre
 enrolmentsSection3: >-
   ## Enrol and start at Mildura Early Learning Centre by 2 May 2025 and get 20%
@@ -47,5 +47,11 @@ enrolmentsSection3: >-
 
   • Mildura Early Learning Centre reserves the right to remove or change any
   applicable discount at any time upon notice.
+meta:
+  description: >-
+    From time to time our services offer promotional offers that are relevant
+    for a specific service. Please discuss with the Centre Director to provide
+    you the terms and conditions of the promotional offer.
+  title: Promotions at a Great Start Early Learning Centre | Great Start ELC
 ---
 

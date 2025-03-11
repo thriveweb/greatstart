@@ -32,6 +32,11 @@ class Form extends React.Component {
     })
     .then(res => {
       if (res.ok) {
+        if (typeof window !== "undefined") {
+          if (window.fbq != null) {
+            window.fbq('track', 'Lead', {content_name: 'BookTour'});//Adding FB Tracking Lead Event
+          }
+        }
         return res
       } else {
         throw new Error('Network error')

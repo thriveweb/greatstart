@@ -57,7 +57,12 @@ module.exports = {
     // css
     'gatsby-plugin-sass',
     'gatsby-plugin-sitemap',
-
+    {
+      resolve: 'gatsby-plugin-facebook-pixel',
+      options: {
+        pixelId: '937862385189205', // Replace with your Facebook Pixel ID
+      },
+    },
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {

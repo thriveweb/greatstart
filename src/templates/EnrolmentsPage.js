@@ -68,7 +68,7 @@ export const EnrolmentsPageTemplate = ({
         </div>
       </section>
 
-      {!!enrolmentsSection2.steps.length &&
+      {enrolmentsSection2.steps && !!enrolmentsSection2.steps.length &&
         <section className="section">
           <div className="container content">
               {enrolmentsSection2.steps &&

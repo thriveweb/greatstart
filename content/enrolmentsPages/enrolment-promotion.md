@@ -4,7 +4,10 @@ slug: ''
 title: Enrolment Promotion
 featuredImage: /images/uploads/mildura.svg
 enrolmentsSection1:
-  title: '##'
+  title: >-
+    ## We would love to find your child a place at our centre. A centre tour is
+    a great way for you and your child to meet the educators, understand our
+    curriculum and learning programs and see our environment first hand.
 breakoutBox:
   content: >-
     From time to time our services offer promotional campaigns that are relevant

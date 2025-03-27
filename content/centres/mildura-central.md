@@ -162,19 +162,10 @@ testimonials:
       have absolutely no hesitation recommending Mildura Central Early Learning
       Centre!  
 directorStatement:
-  content: >-
-    I have been working in Early childhood for 9 years here at Mildura Central
-    Early Learning Centre and hold a Diploma of Early Childhood. My Strong
-    passion and excitement for the Early Years is supported through the
-    Victorian Early Years Learning Framework and many Professional Developments.
-    I have explored learning and development with all age groups as Educational
-    Leader with inspiration from Reggio Emilia and our local community. 
-
-
-    I look forward to meeting and working with you and your family
-  image: /images/uploads/bree.jpg
+  content: "I have been working here at Mildura Central Early Learning Centre since 2016 and hold a Diploma in Early Childhood Education and Care. My passion and excitement for the Early Years is supported through the Victorian Early Years Learning Framework and the many Professional Developments. I am passionate about children’s wellbeing and love to support the team in our Kimochi Program. I have explored learning and development with all age groups and have a driven inspiration from Reggio Emilia and our local community.\r\n\nI look forward to meeting and working with you and your family."
+  image: /images/uploads/hannah-cox_photo_3-2025-website.jpg
   title: >-
-    Hello, my name is Bree Harding and I am the Assistant Director at Mildura
+    Hello, my name is Hannah Cox and I am the Assistant Director at Mildura
     Central Early Learning Centre.
 gallery:
   - image: /images/uploads/istock-516621014_supe_crop.jpg

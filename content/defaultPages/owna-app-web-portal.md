@@ -7,15 +7,15 @@ downloadBanner:
   preview: /images/uploads/image_parent-cheat-sheet.png
   title: OWNA App and Web Portal - Parent Cheat Sheets
 downloadableForms:
-  - file: /images/uploads/owna_parent_cheatsheet_28-01-2024.pdf
-    title: 'Parent’s Cheat Sheets - All in one '
+  - file: /images/uploads/0_owna-parent-cheatsheets_v02-26.pdf
+    title: 'Parent’s OWNA Cheat Sheets - All in one '
   - file: >-
       /images/uploads/parents-cheat-sheet-reading-your-invoice-transactional-1-.pdf
     title: Parent Cheat Sheet - How to Read Your Invoice
   - file: /images/uploads/parent-sign-direct-debit-authority-ddr-form.pdf
     title: How to Sign Direct Debit Request (DDR) Form
-  - file: /images/uploads/owna_gselc_parents_form-guide_29-02-2024_pdf.pdf
-    title: Parent Forms Guide
+  - file: /images/uploads/owna_gselc_parents_form-guide_25-02-2025_pdf.pdf
+    title: Parent OWNA App Forms Guide - Commonly Used Forms
 accordion:
   - content: >-
       Home PageOnce you have logged in you will automatically be on the home

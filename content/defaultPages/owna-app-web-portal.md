@@ -11,11 +11,17 @@ downloadableForms:
     title: 'Parent’s OWNA Cheat Sheets - All in one '
   - file: >-
       /images/uploads/parents-cheat-sheet-reading-your-invoice-transactional-1-.pdf
-    title: Parent Cheat Sheet - How to Read Your Invoice
+    title: 'OWNA App: Parent Cheat Sheet - How to Read Your Invoice'
   - file: /images/uploads/parent-sign-direct-debit-authority-ddr-form.pdf
-    title: How to Sign Direct Debit Request (DDR) Form
+    title: 'OWNA App: How to Sign Direct Debit Request (DDR) Form'
   - file: /images/uploads/owna_gselc_parents_form-guide_25-02-2025_pdf.pdf
-    title: Parent OWNA App Forms Guide - Commonly Used Forms
+    title: 'OWNA App: Service Forms Guide - Commonly Used Forms'
+  - file: >-
+      /images/uploads/owna_gselc_mgt_complete-a-one-off-payment-parent-app-_v-31-01-2024_pdf.pdf
+    title: 'OWNA App: How to Complete a Once-Off Payment in OWNA Parent App'
+  - file: >-
+      /images/uploads/owna_parents-uploading-immunisation-in-app_v02-02-2024_pdf.pdf
+    title: 'OWNA App: How to upload child''s Immunisation History Statement to OWNA App'
 accordion:
   - content: >-
       Home PageOnce you have logged in you will automatically be on the home

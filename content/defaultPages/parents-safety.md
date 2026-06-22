@@ -35,13 +35,11 @@ We do not allow any unauthorised visitors entry to the centre. Your child’s sa
 
 #### Attendance Records: Sign in / Out Using the Kiosk
 
-We utilise QK Kiosk which allows parents and authorised family contacts to electronically sign children in and out by entering a digital pin into the touchscreens located at reception – this is an efficient and sustainable practice. 
+We utilise Kiosk which allows parents and authorised family contacts to electronically sign children in and out by entering a digital pin into the touchscreens located at reception – this is an efficient and sustainable practice. 
 
 It is important for safety and legal reasons to sign your child in and out each day. If an unfamiliar person is collecting your child, it is your responsibility to update your child’s enrolment form and also inform the Educators.
 
 If you have forgotten your PIN or needing to change your mobile number please see the Centre Director. Please keep your PIN confidential. If you have forgotten your PIN please see the Centre Director.
-
-
 
 # Our Commitment to Child Safe Standards and Creating a Child Safe Environment
 
@@ -57,11 +55,11 @@ Our Child Safe and Protection Policy and Child Safe Standards Policy advises of 
 * Strategies to identify and reduce or remove risks of child abuse.
 * Strategies to promote the participation and empowerment of children.
 
-**_Statement of Commitment to Child Safety and Protection_**
+_**Statement of Commitment to Child Safety and Protection**_
 
 The organisation has a strong commitment to child safety, wellbeing and protection, through implementing and adherence to the Child Safe Standards and the Information Sharing Scheme. This commitment extends to all children in our service and community with an aim for children to feel safe, secure and supported. The welfare of the children in our care will always be our first priority and we have a zero-tolerance approach to child abuse and harm.  We acknowledge the importance of our organisation and community to be committed to culturally safety of aboriginal children, the cultural safety for culturally and/or linguistically diverse children and safety of children with a disability.
 
-**_Child Safe Standards_**
+_**Child Safe Standards**_
 
 * **Culturally Safe Environments**: Establish a culturally safe environment in which the diverse and unique identities and experiences of Aboriginal and Torres Strait Islander children and young people are respected and valued.
 * **Child Safety and Wellbeing Guidance:** Ensure that child safety and wellbeing are embedded in our organisation's leadership, governance and culture.
@@ -75,7 +73,7 @@ The organisation has a strong commitment to child safety, wellbeing and protecti
 * **Review of Child Safety Practices:** Implementation of the Child Safe Standards is regularly reviewed and improved.
 * **Implementation of Child Safety Practices:** Policies and procedures that document how our service is safe for children and young people.
 
-**_The centres’ approach to child safety and protection is based on the following principles:_**
+_**The centres’ approach to child safety and protection is based on the following principles:**_
 
 •	Children have the right to feel safe, secure and under the protection of responsible, caring, trustworthy, adults at all times.
 
@@ -85,11 +83,11 @@ The organisation has a strong commitment to child safety, wellbeing and protecti
 
 •	Physical contact is part of the nurturing of children and helps create and sustain trusting relationships and add to feelings of security.
 
-**_Who in our service upholds the Child Safe Standards? _**
+_**Who in our service upholds the Child Safe Standards? **_
 
 Child Safety Officer role is held by the Nominated Supervisor as part of their role to promote and maintain safety and health of children. In the temporary absences of the Nominated Supervisor the Responsible Person – Person in Charge of Service will hold this role. The Child Safety Officer role is also supported by the Wellbeing and Social Justice and Equity Representative/committees of the service. 
 
-**_Understanding Your Obligations - Everyone has a part to play to protect children_**
+_**Understanding Your Obligations - Everyone has a part to play to protect children**_
 
 As community members, we all have a moral obligation to protect any child under our care and supervision from foreseeable harm.  As early childhood service staff members, you play an especially critical role in protecting children (including identifying, responding to and reporting child abuse) and must meet a range of legal obligations to do so.
 
@@ -101,7 +99,7 @@ There are certain classes of professionals, who are classified as **"mandatory r
 
 •	registered doctors and nurses (including Maternal Child Health Nurses).
 
-**_Child Safe Code of Conduct_**
+_**Child Safe Code of Conduct**_
 
 The service upholds the Child Safe Code of Conduct for employers, educators, volunteers, students, families, service community members and children to ensure the safety and wellbeing of children.
 
@@ -111,7 +109,7 @@ The Child Safe Standards, provide guidance and we follow the Child Safe Code of 
 
 All paid and unpaid staff (including volunteers, students on placement, trainees) and parents, family members and members of the service community are responsible for the safety and wellbeing of children and young people who engage with the service. All people of the service community are expected to act in accordance with this Child Safe Code of Conduct in their physical and online interactions with children and young people under the age of 18 years.
 
-**_WILL:_**	
+_**WILL:**_	
 
 • Act in accordance with the organisation’s Child Safety and Protection Policies and procedures at all times. 
 
@@ -141,7 +139,7 @@ All paid and unpaid staff (including volunteers, students on placement, trainees
 
 • Comply with regulation and the organisation’s policies and procedures on record keeping and information sharing.
 
-_**WILL NOT:**_
+**_WILL NOT:_**
 
 • Engage in any unlawful activity with or in relation to a child. 
 
@@ -161,7 +159,7 @@ _**WILL NOT:**_
 
 • Ignore or disregard any suspected or disclosed child harm or abuse.
 
-**_If you believe the Child Safe Code of Conduct has been breached by another person in the organisation, you will:	_**
+_**If you believe the Child Safe Code of Conduct has been breached by another person in the organisation, you will:	**_
 
 • Act to prioritise the best interests of children. 
 
@@ -173,7 +171,7 @@ _**WILL NOT:**_
 
 • Comply with legislative requirements on reporting, and with the organisation’s policy and procedure on internal and external reporting.
 
-_**How do we empower children and promote their understanding and awareness of Child Safety? We:**_
+**_How do we empower children and promote their understanding and awareness of Child Safety? We:_**
 
 * deliver an educational program based on an approved learning framework and based on the developmental needs, interests and experiences of each child. This includes covering topics such as Child Safety.
 * provide an environment for children that promotes their agency (element 1.2.1), maintains respectful and equitable relationships (regulation 156) with each child and allows children to feel secure and confident. 
@@ -190,6 +188,6 @@ We implement the Child Safe Standards by including the following in our educatio
 * child-friendly information and communications about personal safety, and how to voice concerns about personal safety.
 * provide a safe environment for children to express concerns where they will be taken seriously and not judged. We have a Wellbeing Program that supports all children's wellbeing, health and safety.
 
-**_Please see the careers and employment section of the website for policies and procedures in relation to child safety for recruitment, selection and training. _**
+_**Please see the careers and employment section of the website for policies and procedures in relation to child safety for recruitment, selection and training. **_
 
 > **Please see our Child Protection & Wellbeing Policy and Child Safe Standards Policy for all other policies and procedures in relation to our governance in relation to Child Safe Standards.**

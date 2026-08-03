@@ -3,7 +3,7 @@ template: Handbooks
 slug: parents/centre-forms-and-handbooks
 title: 'Key Policies, Centre Forms and Handbooks'
 downloadableForms:
-  - file: /images/uploads/p001-centre-policy-handbook_july-2024.2_pdf.pdf
+  - file: /images/uploads/p001_policy-handbook_07-26_pdf.pdf
     title: Service Policy Handbook
   - file: >-
       /images/uploads/02.-great-start-early-learning-centres_terms-and-conditions_ow_8-11-23_pdf.pdf
